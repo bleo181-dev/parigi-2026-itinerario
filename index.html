@@ -11,19 +11,20 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Source+Sans+3:wght@400;500;600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Nunito:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
     <style>
       :root {
-        --bg: #fff8ef;
-        --bg-soft: #fffaf5;
-        --ink: #1f2530;
-        --ink-soft: #4c5563;
-        --accent: #b54d2e;
-        --border: #e4d6c1;
-        --card: rgba(255, 255, 255, 0.86);
-        --shadow: 0 18px 42px rgba(25, 33, 46, 0.1);
+        --bg: #fff7f4;
+        --bg-soft: #fffdf8;
+        --ink: #2b3249;
+        --ink-soft: #59617a;
+        --accent: #d05d7a;
+        --accent-strong: #b84a67;
+        --border: #edd4d8;
+        --card: rgba(255, 255, 255, 0.88);
+        --shadow: 0 18px 42px rgba(36, 45, 68, 0.12);
       }
 
       * {
@@ -37,12 +38,30 @@
       }
 
       body {
-        font-family: "Source Sans 3", "Segoe UI", sans-serif;
+        font-family: "Nunito", "Segoe UI", sans-serif;
         color: var(--ink);
         background:
-          radial-gradient(circle at 10% 10%, #ffd9bd 0%, transparent 34%),
-          radial-gradient(circle at 90% 15%, #ffe9c7 0%, transparent 30%),
-          linear-gradient(160deg, var(--bg) 0%, var(--bg-soft) 55%, #fef7ea 100%);
+          radial-gradient(circle at 10% 10%, #ffd6de 0%, transparent 38%),
+          radial-gradient(circle at 92% 14%, #dfe6ff 0%, transparent 32%),
+          linear-gradient(160deg, var(--bg) 0%, var(--bg-soft) 52%, #fff6f8 100%);
+        position: relative;
+      }
+
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        opacity: 0.3;
+        background-image:
+          radial-gradient(circle at 1px 1px, #e6bfd0 1px, transparent 0),
+          radial-gradient(circle at 1px 1px, #c5d3f0 1px, transparent 0);
+        background-size:
+          24px 24px,
+          28px 28px;
+        background-position:
+          0 0,
+          12px 10px;
       }
 
       a {
@@ -58,24 +77,39 @@
       }
 
       .hero {
-        background: linear-gradient(140deg, #ffffffb8, #fff4e3cc);
+        background: linear-gradient(140deg, #ffffffcf, #fff2f5df);
         border: 1px solid var(--border);
         border-radius: 22px;
         box-shadow: var(--shadow);
         padding: 1.1rem 1rem;
         backdrop-filter: blur(3px);
+        position: relative;
+        overflow: hidden;
       }
 
       .hero h1 {
         margin: 0;
-        font-family: "Fraunces", Georgia, serif;
+        font-family: "Cormorant Garamond", Georgia, serif;
         font-size: clamp(1.45rem, 2vw + 1rem, 2rem);
         line-height: 1.1;
+        letter-spacing: 0.3px;
       }
 
       .hero p {
         margin: 0.35rem 0 0;
         color: var(--ink-soft);
+      }
+
+      .hero::after {
+        content: "Paris Mood";
+        position: absolute;
+        right: 0.95rem;
+        top: 0.8rem;
+        font-family: "Cormorant Garamond", Georgia, serif;
+        font-size: 0.95rem;
+        letter-spacing: 1px;
+        color: #b78299;
+        text-transform: uppercase;
       }
 
       .layout {
@@ -104,7 +138,7 @@
 
       .map-head h2 {
         margin: 0;
-        font-family: "Fraunces", Georgia, serif;
+        font-family: "Cormorant Garamond", Georgia, serif;
         font-size: 1.14rem;
       }
 
@@ -148,7 +182,7 @@
 
       .toc-card h2 {
         margin: 0 0 0.55rem;
-        font-family: "Fraunces", Georgia, serif;
+        font-family: "Cormorant Garamond", Georgia, serif;
         font-size: 1.05rem;
       }
 
@@ -191,7 +225,7 @@
       .article h1,
       .article h2,
       .article h3 {
-        font-family: "Fraunces", Georgia, serif;
+        font-family: "Cormorant Garamond", Georgia, serif;
         line-height: 1.2;
         scroll-margin-top: 0.8rem;
       }
@@ -250,6 +284,45 @@
         border-radius: 12px;
       }
 
+      .to-top {
+        position: fixed;
+        right: 1rem;
+        bottom: 1rem;
+        width: 42px;
+        height: 42px;
+        border: 1px solid #e6b9c6;
+        border-radius: 999px;
+        background: linear-gradient(160deg, #fff7fa, #ffeef4);
+        color: var(--accent-strong);
+        box-shadow: 0 10px 26px rgba(71, 40, 62, 0.2);
+        font-size: 1.2rem;
+        line-height: 1;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        z-index: 40;
+        opacity: 0;
+        transform: translateY(9px) scale(0.96);
+        pointer-events: none;
+        transition: opacity 0.25s ease, transform 0.25s ease, border-color 0.2s ease;
+      }
+
+      .to-top.is-visible {
+        opacity: 0.92;
+        pointer-events: auto;
+        transform: translateY(0) scale(1);
+      }
+
+      .to-top:hover {
+        border-color: #d893a8;
+      }
+
+      .to-top:focus-visible {
+        outline: 2px solid #db7e98;
+        outline-offset: 2px;
+      }
+
       @keyframes reveal {
         from {
           opacity: 0;
@@ -274,6 +347,11 @@
         .map-wrap iframe {
           height: 48vh;
           min-height: 280px;
+        }
+
+        .to-top {
+          right: 0.75rem;
+          bottom: 0.75rem;
         }
       }
     </style>
@@ -322,6 +400,10 @@
         Modifica solo il file markdown: questa pagina lo converte automaticamente.
       </p>
     </div>
+
+    <button id="toTopBtn" class="to-top" type="button" aria-label="Torna in cima">
+      ↑
+    </button>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
@@ -402,6 +484,24 @@
         });
       }
 
+      function setupToTopButton() {
+        const button = document.getElementById("toTopBtn");
+        if (!button) {
+          return;
+        }
+
+        const toggleVisibility = () => {
+          button.classList.toggle("is-visible", window.scrollY > 420);
+        };
+
+        window.addEventListener("scroll", toggleVisibility, { passive: true });
+        toggleVisibility();
+
+        button.addEventListener("click", () => {
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        });
+      }
+
       async function renderPage() {
         const content = document.getElementById("content");
         try {
@@ -430,6 +530,7 @@
         }
       }
 
+      setupToTopButton();
       renderPage();
     </script>
   </body>
