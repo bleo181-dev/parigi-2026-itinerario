@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Itinerario Parigi 2026</title>
+    <meta
+      name="description"
+      content="Guida di viaggio per Parigi 2026, ottimizzata per smartphone."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Source+Sans+3:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg: #fff8ef;
+        --bg-soft: #fffaf5;
+        --ink: #1f2530;
+        --ink-soft: #4c5563;
+        --accent: #b54d2e;
+        --border: #e4d6c1;
+        --card: rgba(255, 255, 255, 0.86);
+        --shadow: 0 18px 42px rgba(25, 33, 46, 0.1);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: "Source Sans 3", "Segoe UI", sans-serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at 10% 10%, #ffd9bd 0%, transparent 34%),
+          radial-gradient(circle at 90% 15%, #ffe9c7 0%, transparent 30%),
+          linear-gradient(160deg, var(--bg) 0%, var(--bg-soft) 55%, #fef7ea 100%);
+      }
+
+      a {
+        color: var(--accent);
+        text-decoration-thickness: 2px;
+        text-underline-offset: 2px;
+      }
+
+      .shell {
+        width: min(1100px, calc(100% - 1.25rem));
+        margin: 0 auto;
+        padding: 1rem 0 2.5rem;
+      }
+
+      .hero {
+        background: linear-gradient(140deg, #ffffffb8, #fff4e3cc);
+        border: 1px solid var(--border);
+        border-radius: 22px;
+        box-shadow: var(--shadow);
+        padding: 1.1rem 1rem;
+        backdrop-filter: blur(3px);
+      }
+
+      .hero h1 {
+        margin: 0;
+        font-family: "Fraunces", Georgia, serif;
+        font-size: clamp(1.45rem, 2vw + 1rem, 2rem);
+        line-height: 1.1;
+      }
+
+      .hero p {
+        margin: 0.35rem 0 0;
+        color: var(--ink-soft);
+      }
+
+      .layout {
+        display: grid;
+        grid-template-columns: 260px minmax(0, 1fr);
+        gap: 1rem;
+        margin-top: 1rem;
+      }
+
+      .toc-card {
+        position: sticky;
+        top: 0.75rem;
+        align-self: start;
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 18px;
+        box-shadow: var(--shadow);
+        padding: 0.9rem;
+      }
+
+      .toc-card h2 {
+        margin: 0 0 0.55rem;
+        font-family: "Fraunces", Georgia, serif;
+        font-size: 1.05rem;
+      }
+
+      .toc-list {
+        display: grid;
+        gap: 0.45rem;
+      }
+
+      .toc-list a {
+        display: block;
+        text-decoration: none;
+        color: var(--ink);
+        border-left: 2px solid transparent;
+        padding-left: 0.45rem;
+        font-size: 0.96rem;
+      }
+
+      .toc-list a:hover {
+        border-left-color: var(--accent);
+        color: var(--accent);
+      }
+
+      .toc-level-2 {
+        opacity: 0.9;
+      }
+
+      .article {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 18px;
+        box-shadow: var(--shadow);
+        padding: clamp(0.95rem, 2vw, 1.4rem);
+        overflow-wrap: anywhere;
+      }
+
+      .article > * {
+        animation: reveal 0.45s ease both;
+      }
+
+      .article h1,
+      .article h2,
+      .article h3 {
+        font-family: "Fraunces", Georgia, serif;
+        line-height: 1.2;
+        scroll-margin-top: 0.8rem;
+      }
+
+      .article h1 {
+        margin-top: 1.45rem;
+      }
+
+      .article h2 {
+        margin-top: 1.25rem;
+      }
+
+      .article p,
+      .article li {
+        font-size: 1.03rem;
+        line-height: 1.58;
+      }
+
+      .article ul,
+      .article ol {
+        padding-left: 1.15rem;
+      }
+
+      .article pre {
+        white-space: pre-wrap;
+        background: #f8efe2;
+        border: 1px solid #e7d8c3;
+        border-radius: 10px;
+        padding: 0.75rem;
+      }
+
+      .article img {
+        width: 100%;
+        height: auto;
+        display: block;
+        border-radius: 14px;
+        border: 1px solid #e8d8bf;
+        box-shadow: 0 9px 22px rgba(26, 34, 47, 0.12);
+      }
+
+      .note-image {
+        margin: 1rem 0;
+      }
+
+      .page-note {
+        margin-top: 1rem;
+        font-size: 0.94rem;
+        color: var(--ink-soft);
+      }
+
+      .error {
+        background: #fff0ef;
+        color: #7e2517;
+        border: 1px solid #efc0b9;
+        padding: 0.9rem;
+        border-radius: 12px;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+          transform: translateY(7px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      @media (max-width: 900px) {
+        .layout {
+          grid-template-columns: minmax(0, 1fr);
+        }
+
+        .toc-card {
+          position: static;
+          order: -1;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="shell">
+      <header class="hero">
+        <h1>Parigi 2026</h1>
+        <p>Guida aggiornata da markdown, con layout comodo per smartphone.</p>
+      </header>
+
+      <main class="layout">
+        <aside class="toc-card" aria-label="Indice">
+          <h2>Indice rapido</h2>
+          <nav id="toc" class="toc-list"></nav>
+        </aside>
+        <article id="content" class="article" aria-live="polite"></article>
+      </main>
+
+      <p class="page-note">
+        Modifica solo il file markdown: questa pagina lo converte automaticamente.
+      </p>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+      const NOTE_FILE = "Itinerario Parigi 2026.md";
+
+      const escapeHtmlAttr = (value) =>
+        value
+          .replaceAll("&", "&amp;")
+          .replaceAll('"', "&quot;")
+          .replaceAll("<", "&lt;")
+          .replaceAll(">", "&gt;");
+
+      const slugify = (text) =>
+        text
+          .toLowerCase()
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .replace(/[^a-z0-9\s-]/g, "")
+          .trim()
+          .replace(/\s+/g, "-")
+          .replace(/-+/g, "-");
+
+      function preprocessMarkdown(rawMarkdown) {
+        let md = rawMarkdown.replace(/\r\n/g, "\n");
+
+        md = md.replace(/```table-of-contents[\s\S]*?```/gi, "");
+
+        md = md.replace(
+          /<div class="page-break"[\s\S]*?<\/div>/gi,
+          ""
+        );
+
+        md = md.replace(/!\[\[([^\]|]+)(?:\|(\d+))?\]\]/g, (_, fileName, width) => {
+          const trimmedFile = fileName.trim();
+          const imgSrc = encodeURI(trimmedFile);
+          const alt = escapeHtmlAttr(
+            trimmedFile.replace(/\.[a-zA-Z0-9]+$/, "").replace(/[-_]/g, " ")
+          );
+          const widthAttr =
+            width && Number.isFinite(Number(width))
+              ? ` style="max-width:${Number(width)}px"`
+              : "";
+          return `<figure class="note-image"><img src="${imgSrc}" alt="${alt}"${widthAttr} loading="lazy" /></figure>`;
+        });
+
+        return md;
+      }
+
+      function buildToc(container) {
+        const toc = document.getElementById("toc");
+        toc.innerHTML = "";
+
+        const headings = [...container.querySelectorAll("h1, h2")];
+        if (!headings.length) {
+          toc.innerHTML = "<p>Nessun titolo trovato.</p>";
+          return;
+        }
+
+        const seen = new Map();
+        headings.forEach((heading) => {
+          const base = slugify(heading.textContent || "sezione") || "sezione";
+          const count = (seen.get(base) || 0) + 1;
+          seen.set(base, count);
+          heading.id = count > 1 ? `${base}-${count}` : base;
+
+          const link = document.createElement("a");
+          link.href = `#${heading.id}`;
+          link.textContent = heading.textContent || heading.id;
+          link.className = heading.tagName === "H1" ? "toc-level-1" : "toc-level-2";
+          toc.appendChild(link);
+        });
+      }
+
+      function staggerReveal(container) {
+        const blocks = [...container.children];
+        blocks.forEach((block, index) => {
+          block.style.animationDelay = `${Math.min(index * 20, 260)}ms`;
+        });
+      }
+
+      async function renderPage() {
+        const content = document.getElementById("content");
+        try {
+          if (!window.marked) {
+            throw new Error("Libreria markdown non disponibile.");
+          }
+
+          const response = await fetch(encodeURI(NOTE_FILE), { cache: "no-store" });
+          if (!response.ok) {
+            throw new Error(
+              `Impossibile leggere "${NOTE_FILE}" (HTTP ${response.status}).`
+            );
+          }
+
+          const markdownRaw = await response.text();
+          const markdownProcessed = preprocessMarkdown(markdownRaw);
+          content.innerHTML = marked.parse(markdownProcessed, {
+            breaks: true,
+            gfm: true
+          });
+
+          buildToc(content);
+          staggerReveal(content);
+        } catch (error) {
+          content.innerHTML = `<div class="error"><strong>Errore:</strong> ${escapeHtmlAttr(String(error.message || error))}</div>`;
+        }
+      }
+
+      renderPage();
+    </script>
+  </body>
+</html>
