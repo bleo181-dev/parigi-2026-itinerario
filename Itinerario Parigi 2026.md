@@ -1,5 +1,5 @@
-## Parigi 2026 · Itinerario
-**12–16 maggio 2026**  
+## Parigi 2026 · Itinerario completo
+**12–16 maggio 2026**
 ```table-of-contents
 maxLevel:1
 includeLinks:true
@@ -48,6 +48,13 @@ Il trasferimento da Beauvais richiede un po’ di coordinazione tra bus, treno e
 
 Gli Champs-Élysées sono più belli come passeggiata che come “visita”: l’idea è godersi il primo impatto con Parigi, guardare i palazzi, l’ampiezza del viale e l’atmosfera.
 
+### Piccole tappe carine lungo il percorso
+- **Lancôme Boutique & Café Rose** – 52 av. des Champs-Élysées  
+  Tappa simpatica se vi va una sosta veloce: segnata per la **rosa in regalo**.
+- Se vi viene voglia di prendere qualcosa da portare via:
+  - **Ladurée / Pierre Hermé** – zona Champs-Élysées  
+    Ottimi per **macaron d’asporto**.
+
 ### 3) Arco di Trionfo
 - Arrivo previsto: **18:00 circa**
 - **Durata consigliata:** **45–60 minuti**
@@ -69,7 +76,12 @@ Gli Champs-Élysées sono più belli come passeggiata che come “visita”: l�
 
 Il Trocadéro è uno dei punti panoramici migliori per vedere la Torre Eiffel frontalmente. È una delle tappe perfette per le foto del primo giorno.
 
-<div class="page-break" style="page-break-before: always;"></div>
+### Extra molto vicini al Trocadéro
+- **Maison Boissier** – 48 rue de Passy, 16°  
+  Candy boutique molto carina, vicinissima alla zona Trocadéro.
+- Se volete fare cocktail/cena con vista:
+  - **Café de l’Homme** – vista Torre Eiffel, da prenotare
+  - **Girafe** – rooftop vista Torre Eiffel, prezzi alti, da prenotare
 
 ### 6) Crociera sulla Senna
 Compagnia consigliata: **Bateaux Mouches**  
@@ -93,9 +105,22 @@ La crociera è ottima appena arrivati perché permette di vedere tanti luoghi ic
 
 La zona è perfetta per una passeggiata serale tranquilla. Anche se non salite sulla Torre, vederla da sotto e dal prato del Campo di Marte resta una delle esperienze più belle del viaggio.
 
+### Extra vicini alla Torre Eiffel
+- **Port de Billy** – spot davanti alla Torre Eiffel  
+  Bel punto foto, soprattutto la sera.
+- **Palais Lavirotte** – 29 Av. Rapp, 75007  
+  A circa **5 minuti a piedi dalla Torre Eiffel**, famoso per il portone Art Nouveau super decorato. Solo esterno, ma molto bello se siete in zona.
+
 ### 8) Cena
 - Cena in zona Torre Eiffel / Campo di Marte
 - Orario realistico: **22:00–23:00**
+
+### Posti segnati utili in zona / semizona
+| Zona | Posto | Tipo/Note |
+| --- | --- | --- |
+| Campo di Marte 7 | **Kozy Bosquet** – 79 av. Bosquet | brunch / cena |
+| zona hotel 18/9 | **Brasserie Pagel** – 168 rue Ordener | economico, menu pranzo 15.90 |
+| zona hotel 9 | **Bouillon Chartier** – 7 rue du Faubourg Montmartre | economico tipico |
 
 ### 9) Rientro in hotel
 - Tempo stimato dalla Torre Eiffel all’hotel: circa **40 minuti** con i mezzi
@@ -113,7 +138,9 @@ La zona è perfetta per una passeggiata serale tranquilla. Anche se non salite s
 - **22:00–23:00** cena
 - **23:30** rientro circa
 
-# 13 MAGGIO 2026 · INVALIDES + PETIT PALAIS + LOUVRE
+---
+
+# 13 MAGGIO 2026 · INVALIDES + PETIT PALAIS + TUILERIES + LOUVRE + LES HALLES
 
 ![[Pasted image 20260215182616.png]]
 
@@ -123,12 +150,15 @@ Il percorso conviene farlo **al contrario rispetto allo screenshot originale**, 
 ## Mattina
 ### 1) Colazione
 **The French Bastards**  
-Rue du Bac
+Opzioni:
+- **Rue du Bac** → la più comoda con l’itinerario
+- **61 Rue Oberkampf** → alternativa
+
 - Dall’hotel: meno di **30 minuti** con **metro M12**
 - Partenza consigliata dall’hotel: **8:45–9:00**
 - Colazione: **9:15–9:45**
 
-### 2) Musée de l’Armée
+### 2) Musée de l’Armée + Tomba di Napoleone
 - Arrivo previsto: **10:00 circa**
 - **Durata consigliata:** **1h30–2h**
 - Fascia oraria indicativa: **10:00–11:30 / 12:00**
@@ -156,18 +186,52 @@ Il complesso degli Invalides è molto importante storicamente e architettonicame
 - Fascia oraria indicativa: **12:30–13:30 / 14:00**
 
 ### Cose utili da sapere
-Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio bellissimo, collezioni interessanti, visita più leggera rispetto ai musei enormi.
+Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio bellissimo, collezioni interessanti, visita più leggera rispetto ai musei enormi.  
+La **collezione permanente è gratuita**.
 
 ## Pausa pranzo
 - Pranzo consigliato tra **13:30 e 14:30**
 - Meglio fare un pranzo non troppo lungo, per arrivare al Louvre con calma e senza stancarvi
 
-## Pomeriggio
-### 6) Spostamento verso il Louvre
+### Posti segnati utili
+| Zona | Posto | Note |
+| --- | --- | --- |
+| Rue du Bac 7 | **The French Bastards** | bakery / colazione |
+| Invalides 7 | **Kozy Bosquet** – 79 Av. Bosquet | brunch all-day |
+| Tuileries 1 | **Angelina** – 226 Rue de Rivoli | tea room storica, cioccolata |
+| Louvre 1 | **Café Kitsuné Louvre** – 2 pl. André Malraux | café di design |
+| Louvre 1 | **Bo&Mie** – 91 Rue de Rivoli | bakery creativa |
+| Louvre | **Bagelstein** – 13 rue des Pyramides | bagel |
+
+## Primo pomeriggio
+### 6) Tuileries + Orangerie
+- Fascia oraria indicativa: **14:30–15:30**
+
+Questa parte si integra bene tra Petit Palais e Louvre.
+- **Giardini delle Tuileries**: passeggiata molto piacevole, ideale per rallentare
+- **Orangerie**: da valutare solo se avete davvero voglia/tempo, altrimenti meglio tenere energie per il Louvre
+
+### 7) Spostamento verso il Louvre
 - **Tempo stimato:** **20–30 minuti**
 - Arrivo in zona consigliato: **16:00**
 
-### 7) Louvre
+### Piccoli extra interessanti in zona Louvre / Palais-Royal / centro
+- **The Mètre Étalon** – vicino al Palais-Royal  
+  Curiosità storica: il “metro campione”.
+- **59 Rivoli** – 59 Rue de Rivoli, 75001  
+  Collettivo di artisti, molto particolare.
+- **Samaritaine** – grande magazzino molto bello
+- **Diptyque** – 7 rue du Four / zona Saint-Germain
+- **Officine Universelle Buly** – 6 rue Bonaparte  
+  Perfetta per souvenir / profumi vintage style
+- **Saint-Germain-des-Prés**
+- **Café de Flore** – iconico, ma prezzi alti
+- **Chiesa Saint-Sulpice**
+- **Salvador Dalí Sundial** e **Arago Medallions**  
+  Piccole curiosità da notare se vi capita
+
+## Pomeriggio
+### 8) Louvre
 **Ingresso previsto: 16:30**
 
 ### Durata consigliata
@@ -180,10 +244,31 @@ Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio b
 - Conviene entrare già con un’idea chiara delle opere o sezioni prioritarie.
 - Se non volete distruggervi, meglio selezionare un percorso essenziale.
 
-### Sera
+## Sera
+### 9) Châtelet / Les Halles
 - Uscita dal Louvre: **19:00–19:30**
-- Cena in zona Louvre / Opéra / Senna
-- Rientro in hotel dopo cena
+- Cena in zona **Louvre / Châtelet / Les Halles / Senna**
+
+### Extra in zona serale
+- **Fontaine des Innocents**
+- **Fontana di Stravinsky** – Place Stravinsky, 75004  
+  Coloratissima, accanto al Pompidou
+- **Musée du Chocolat** – zona centro
+- **Colonia** – speakeasy con password  
+  18 Rue de Beaujolais, 75001  
+  Dietro profumeria, accesso con codice/password, verificare disponibilità
+
+### Cibo segnato utile per sera
+| Zona | Posto | Note |
+| --- | --- | --- |
+| Zona 1/2 | **Kodawari Ramen** | ramen |
+| Les Halles 1 | **Stohrer** | dessert |
+| Choiseul | **Comme un Bouillon** – 17 rue Choiseul | bistrot/bouillon |
+| Opéra 2 | **Monte Carlo** – 9 rue de la Michodière | economico |
+| Les Halles 1 | **Le Petit Bouillon Pharamond** – 24 Rue de la Grande Truanderie | bouillon storico |
+| Les Halles 1 | **Pink Koi** – 8 Rue Coquillière | sushi ayce |
+| 8e arr. | **Ferdi** – 32 Rue du Mont Thabor | hamburger e mac&cheese [R] |
+| 2e | **Brasserie Tekés** – 4 bis Rue Saint-Sauveur | Michelin, più costoso [R] |
 
 ### Riassunto orari del giorno
 - **9:15** colazione
@@ -191,9 +276,12 @@ Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio b
 - **12:00** Pont Alexandre III
 - **12:30** Petit Palais
 - **13:30/14:00** pranzo
+- **14:30** Tuileries
 - **16:30** Louvre
 - **19:00/19:30** fine visita
-- **20:00 circa** cena
+- **20:00 circa** cena in zona Les Halles / Châtelet
+
+---
 
 # 14 MAGGIO 2026 · MONTMARTRE + PIGALLE + OPÉRA
 
@@ -208,6 +296,7 @@ Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio b
 ### 2) Colazione lungo il tragitto
 **P1 BOUCHE – Ristorante & Caffè**  
 151B Rue Marcadet, 75018 Paris
+
 - Colazione prevista: **9:00–9:30**
 
 ### 3) Place Louise Michel
@@ -223,6 +312,9 @@ Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio b
 - È uno dei punti panoramici più belli della città.
 - La basilica è molto visitata, quindi al mattino si gira meglio.
 - Anche solo il sagrato merita molto per vista e atmosfera.
+- Se vi interessa:
+  - **Cupola**: circa **6 €**
+  - **Cripta**: circa **3 €**
 
 ### 5) Place du Tertre
 - **Durata consigliata:** **30–45 minuti**
@@ -230,15 +322,16 @@ Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio b
 
 È la piazza degli artisti: molto turistica, ma fa parte dell’immaginario classico di Montmartre.
 
-### 6) Passeggiata tra le gemme nascoste di Montmartre
+### 6) Passeggiata tra le gemme di Montmartre
 - **Durata consigliata complessiva:** **1h30**
 - Fascia indicativa: **11:30–13:00**
 
 Da non perdere:
-- **La Maison Rose** – casa rosa iconica, perfetta per foto
-- **Rue de l’Abreuvoir** – una delle strade più belle di Parigi
-- **Vigneto di Montmartre** – il celebre vigneto cittadino
-- **Muro “I Love You”** – “ti amo” scritto in 250 lingue
+- **La Maison Rose**
+- **Rue de l’Abreuvoir**
+- **Vigneto di Montmartre**
+- **Muro “I Love You”**
+- **Casa che affonda** se volete aggiungere una curiosità fotografica
 
 ### Cose utili da sapere
 Montmartre rende meglio se la vivi camminando senza fretta, entrando nelle stradine laterali e non limitandoti solo ai punti più famosi.
@@ -246,6 +339,16 @@ Montmartre rende meglio se la vivi camminando senza fretta, entrando nelle strad
 ## Pranzo
 - Pranzo a **Montmartre**
 - Orario previsto: **13:00–14:00**
+
+### Cibo segnato utile
+| Zona | Posto | Note |
+| --- | --- | --- |
+| Montmartre 18 | **P1 Bouche** – 151B rue Marcadet | colazione |
+| Montmartre 18 | **La Maison Rose** – 2 Rue de l’Abreuvoir | pranzo, prenotare |
+| Montmartre 18 | **Le Refuge des Fondus** – 17 Rue des Trois Frères | fonduta nel biberon [R] |
+| Montmartre 18 | **Aux Merveilleux de Fred** – 2 rue Lepic | dolci |
+| Montmartre 18 | **Le Cantine de Sam** – 6 rue Androuet | café |
+| Montmartre 18/9 | **Chez Mamane** | cucina nordafricana |
 
 ## Pomeriggio
 ### 7) Discesa verso Pigalle
@@ -273,12 +376,26 @@ Quartiere più vivace e meno “cartolina”, interessante per contrasto con l�
 ### Cose utili da sapere
 Le Galeries valgono la visita anche senza shopping, soprattutto per gli interni e l’atmosfera del grande magazzino storico.
 
+### Dettagli utili segnati
+- **Terrazza panoramica all’8° piano** — **gratuita**
+- **Glasswalk** — prenotare fascia oraria **[R]**
+- **Tote bag gratuita** con **50 € di spesa** all’Espace Conciergerie
+- **Bar de la Cave** — vini e formaggi all’interno
+
 ### 12) Palais Garnier
-- **Durata consigliata:** **30–45 minuti** se lo vedete soprattutto da fuori e nella zona
+- **Durata consigliata:** **30–45 minuti**
 - Fascia indicativa: **17:00–17:45**
+- Se visitate anche gli interni, considerate più tempo **[R]**
 
 ### Cose utili da sapere
 È uno dei teatri d’opera più famosi al mondo e uno degli edifici più scenografici della città.
+
+### Extra in zona Opéra
+- **Fragonard** – boutique / visita profumi gratuita
+- **Musée Grévin** – museo delle cere
+- **Pain d’Épices** – da cercare per souvenir dolci
+- **Canal Saint-Martin** – solo se vi avanza parecchio tempo, deviazione più ampia
+- **Land&Monkeys** – bakery vegana, se volete una pausa
 
 ### 13) Tempo libero / aperitivo / pausa
 - **17:45–19:30**
@@ -287,6 +404,18 @@ Le Galeries valgono la visita anche senza shopping, soprattutto per gli interni 
 ### 14) Cena
 - Cena in zona **Opéra / Haussmann**
 - Orario consigliato: **19:30–21:00**
+
+### Cibo segnato utile
+| Zona | Posto | Note |
+| --- | --- | --- |
+| Pigalle 9 | **Bouillon Pigalle** [R] | tipico francese, lumache |
+| Opéra 9 | **Bouillon Chartier** – 7 Rue du Fg Montmartre | economico, no prenotazione |
+| Opéra 9 | **Cult Coffee Shop** – 13 Rue La Fayette | brunch e caffè |
+| Opéra 9 | **Père & Fish** – 67 Rue du Fg Poissonnière | burger di pesce |
+| Opéra 9 | **Keopi** – 23 Passage Verdeau | brunch, cozy |
+| Opéra 9 | **Kozy Kanopé** – 46 Rue La Fayette | brunch all-day |
+| Opéra 9 | **Mamiche** – 45 Rue Condorcet | bakery |
+| Oberkampf 11 | **Pierre Sang** [R] | chef creativo, 25–35 € |
 
 ### 15) Rientro in hotel
 - Con **metro M12**
@@ -305,7 +434,9 @@ Le Galeries valgono la visita anche senza shopping, soprattutto per gli interni 
 - **19:30** cena
 - **21:30 circa** rientro
 
-# 15 MAGGIO 2026 · RUE CRÉMIEUX + MARAIS + NOTRE-DAME + CATACOMBE + LUSSEMBURGO + ORSAY
+---
+
+# 15 MAGGIO 2026 · RUE CRÉMIEUX + BASTIGLIA + PLACE DES VOSGES + MARAIS + NOTRE-DAME + CATACOMBE + LUSSEMBURGO + ORSAY
 
 ![[Pasted image 20260215182634.png]]
 
@@ -318,10 +449,19 @@ Le Galeries valgono la visita anche senza shopping, soprattutto per gli interni 
 - **Durata consigliata:** **20–30 minuti**
 
 ### Cose utili da sapere
-Rue Crémieux è molto fotogenica ma piccola: basta poco tempo. Meglio andarci presto, quando c’è meno gente.
+Rue Crémieux è molto fotogenica ma piccola: basta poco tempo. Meglio andarci presto, quando c’è meno gente.  
+Le **case pastello** sono il motivo principale della tappa.
 
 ### 2) Colazione in zona
 - Orario consigliato: **9:45–10:15**
+
+### Colazione / mercato segnati in zona
+- **Marché d'Aligre / Beauvau** – Rue d'Aligre, 75012  
+  Vicinissimo a Rue Crémieux, ottimo per colazione / mercato del mattino.
+- Altre idee:
+  - **Sain Boulangerie**
+  - **Colère**
+  Entrambe valide come forno / viennoiserie se vi torna comodo
 
 ### 3) Bastiglia → Place des Vosges
 - Passeggiata da Rue Crémieux verso Bastiglia e poi verso Place des Vosges
@@ -331,7 +471,8 @@ Rue Crémieux è molto fotogenica ma piccola: basta poco tempo. Meglio andarci p
 ### 4) Place des Vosges
 - **Durata consigliata:** **20–30 minuti**
 
-Una delle piazze più eleganti di Parigi, molto rilassante e piacevole per fermarsi un attimo.
+Una delle piazze più eleganti di Parigi, molto rilassante e piacevole per fermarsi un attimo.  
+I portici sono belli da vedere e attorno ci sono caffè, gallerie e pasticcerie.
 
 ### 5) Museo Victor Hugo
 - Indirizzo: **Place des Vosges, n. 6**
@@ -348,9 +489,32 @@ Una delle piazze più eleganti di Parigi, molto rilassante e piacevole per ferma
 ### Cose utili da sapere
 Le Marais è uno dei quartieri più piacevoli per camminare: strade storiche, negozi, cortili, atmosfera vivace ma elegante.
 
+### Extra interessanti in zona
+- **Archives Nationales**
+- **Musée Carnavalet** – gratis, storia di Parigi
+- **Fleux**
+- **Merci**
+- **Mariage Frères**
+- **Marin Montagut**
+- **Beyond Paris Marais**
+- **Le Défenseur du Temps**
+- **Fontana di Stravinsky** – se vi spingete verso Pompidou
+
 ### 7) Marché des Enfants Rouges
 - Pranzo al mercato coperto
 - Orario previsto: **13:00–14:00**
+
+### Cibo segnato utile
+| Zona | Posto | Note |
+| --- | --- | --- |
+| Bastiglia 12 | **Marché d'Aligre** – Rue d'Aligre | mercato alimentare |
+| Marais 3 | **Chez Alain Miam Miam** – 26 Rue Charlot | panini giganti |
+| Marais 3/4 | **Marché des Enfants Rouges** – 39 Rue de Bretagne | pranzo |
+| Marais 4 | **L'As du Fallafel** – 34 Rue des Rosiers | falafel |
+| Marais 4 | **Carette** – 25 Place des Vosges | pasticceria |
+| Marais 4 | **Neulo** – 46 Rue Sainte-Croix de la Bretonnerie | flan |
+| Marais 4 | **Chez Janou** | bistrot vicino Place des Vosges |
+| Marais 4 | **Kozy Pompidou** – 131/133 Rue Saint-Martin | brunch all-day |
 
 ## Pomeriggio
 ### 8) Centro Pompidou
@@ -371,12 +535,20 @@ Le Marais è uno dei quartieri più piacevoli per camminare: strade storiche, ne
 ### Cose utili da sapere
 Notre-Dame è una tappa fondamentale, anche solo da fuori. Se riuscite a entrare con tempi buoni, considerate comunque un po’ di margine per controlli o coda.
 
+### Extra vicini a Notre-Dame / Île de la Cité / Quartiere Latino
+- **Rue du Chat-qui-Pêche** – la via più stretta di Parigi
+- **Sainte-Chapelle** – se volete aggiungere una tappa a pagamento
+- **Tour de l’Horloge**
+- **Kozy Notre-Dame** – brunch vista Notre-Dame
+- **Le Renard Café** – Studio Ghibli café
+- **La Taverne d’Esmeralda** – boeuf bourguignon
+
 ### 11) Spostamento verso le Catacombe
 - Passando in quella direzione potreste transitare anche in zona **Pantheon**, come extra piacevole
 - **Tempo stimato:** **25–35 minuti**
 - Arrivo realistico: **16:15–16:30**
 
-### 12) Catacombe di Parigi
+## 12) Catacombe di Parigi
 - **Durata media visita:** circa **1 ora** [1][2]
 - **Percorso:** **1,5 km** [1][2]
 - **Temperatura costante:** **14°** [1][2]
@@ -407,6 +579,11 @@ Notre-Dame è una tappa fondamentale, anche solo da fuori. Se riuscite a entrare
 ### Cose utili da sapere
 È una tappa perfetta per riprendersi dopo la visita alle Catacombe: più luce, più aria, atmosfera calma.
 
+### Extra segnati in zona
+- **Le 5 Statue della Libertà** – una si trova nel Giardino del Lussemburgo
+- **Benchy** – per matcha / pausa
+- Zona Saint-Germain sempre piacevole se volete allungare un po’
+
 ### 14) Museo d’Orsay
 - Spostamento verso il museo: **20–25 minuti**
 - Arrivo realistico: **19:00 circa**
@@ -415,10 +592,34 @@ Notre-Dame è una tappa fondamentale, anche solo da fuori. Se riuscite a entrare
 ### Cose utili da sapere
 Il museo è molto più gestibile del Louvre e spesso più godibile a fine giornata. Se amate impressionismo e post-impressionismo, è una delle tappe più forti del viaggio.
 
+### Extra cibo in zona / dopomuseo
+- **Bao’s House** – 18 rue au Maire, più comodo prima nel Marais per merenda
+- **Kozy Bosquet** – 79 Av. Bosquet, vicino Orsay
+- **Café de Flore** – iconico, prezzi alti
+
 ## Sera
 ### 15) Cena
 - Cena libera, “alla bersagliera”
 - Orario previsto: **dopo il museo**, quindi **20:30–21:30** circa
+
+### Idee serali alternative
+- **Le Caveau de la Huchette** – jazz live zona Saint-Michel
+- **Les Marmottes** – fonduta / raclette
+- **Chez Gladines** – cucina basca abbondante ed economica
+- **Les Rupins** – bistrot economico e autentico
+
+### Speakeasy segnati
+- **Lavomatic** – 30 Rue René Boulanger, 10e
+- **L’Épicerie** – 24 Rue Notre-Dame de Nazareth, 3e
+- **Candelaria** – 52 Rue de Saintonge, 3e
+
+### Mini-tour extra solo se avete davvero voglia/tempo
+Volendo, il **15 maggio mattina** si potrebbe allargare con un mini-tour nel 13°:
+- **Butte-aux-Cailles**
+- **Cité Florale**
+- **Parco Montsouris**
+
+Però solo se vi sentite carichi: altrimenti la giornata è già piena così.
 
 ### Riassunto orari del giorno
 - **9:15** Rue Crémieux
@@ -434,6 +635,8 @@ Il museo è molto più gestibile del Louvre e spesso più godibile a fine giorna
 - **17:45/18:00** Giardino del Lussemburgo
 - **19:00** Musée d’Orsay
 - **20:30/21:00** cena
+
+---
 
 # 16 MAGGIO 2026 · RIENTRO
 
@@ -459,13 +662,26 @@ https://www.rome2rio.com/map/Paris-Rooms-Dreams-Hotel/Beauvais-Airport-BVA?depar
 ### Nota utile
 Per un volo alle **12:30**, meglio partire con largo anticipo: il trasferimento ha più passaggi e conviene essere prudenti.
 
-## Riassunto finale rapidissimo
+### Orari stimati suggeriti
+| Orario | Tappa | Note |
+| --- | --- | --- |
+| **8:40** | Partenza dall’hotel | |
+| **9:00** | Paris Nord – TER verso Beauvais | |
+| **10:20** | Beauvais – 7 min a piedi | |
+| **10:40** | Bus linea 6 verso aeroporto | |
+| **11:00** | Arrivo a Beauvais Airport BVA | |
+| **12:30** | Partenza BVA | |
+| **14:10** | Arrivo Bologna | |
+
+---
+
+# RIASSUNTO FINALE RAPIDISSIMO
 
 ### 12 maggio
 Arrivo, hotel, Champs-Élysées, Arco di Trionfo, Trocadéro, crociera, Torre Eiffel.
 
 ### 13 maggio
-Rue du Bac, Musée de l’Armée, Pont Alexandre III, Petit Palais, Louvre.
+Rue du Bac, Musée de l’Armée, Pont Alexandre III, Petit Palais, Tuileries, Louvre, Châtelet / Les Halles.
 
 ### 14 maggio
 Montmartre, Sacro Cuore, Place du Tertre, Maison Rose, Pigalle, Moulin Rouge, Galeries Lafayette, Palais Garnier.
@@ -476,7 +692,23 @@ Rue Crémieux, Place des Vosges, Museo Victor Hugo, Le Marais, Marché des Enfan
 ### 16 maggio
 Rientro a Beauvais e volo per Bologna.
 
-## Link utili
+---
+
+# APPENDICE · POSTI EXTRA “SOLO SE AVANZA TEMPO”
+
+| **Posto** | **Dove** | **Nota** |
+| --- | --- | --- |
+| **Butte aux Cailles** | 13° | Street art, atmosfera di villaggio, molto autentico |
+| **Parco Montsouris** | 14° | Bellissimo parco romantico, meno turistico |
+| **Cité Florale** | 13° | Quartierino di casette e fiori, quasi segreto |
+| **Petite Ceinture** | Vari arrondissement | Ex ferrovia abbandonata con vegetazione selvaggia |
+| **Musée Albert Kahn** | Boulogne, fuori centro | Solo con molto tempo libero |
+| **Parc de Bagatelle** | 16° | Solo con molto tempo libero |
+| **Dodo Manège** | Parc de Bagatelle | Giostra vintage |
+
+---
+
+# LINK UTILI
 
 ### Treno
 https://www.sncf-connect.com/
@@ -497,6 +729,6 @@ https://maps.app.goo.gl/8pbGMGd7VtNFco8XA
 https://www.bateaux-mouches.fr/it/crociera/crociera_classica
 
 ### Catacombe di Parigi
-https://www.catacombes.paris.fr/le-catacombe-di-parigi
-https://www.catacombes.paris.fr/visiter/informations-pratiques
+https://www.catacombes.paris.fr/le-catacombe-di-parigi  
+https://www.catacombes.paris.fr/visiter/informations-pratiques  
 https://www.catacombes.paris.fr/visiter/tarifs-individuels
