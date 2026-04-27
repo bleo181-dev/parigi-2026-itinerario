@@ -4,16 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Itinerario Parigi 2026</title>
-    <meta
-      name="description"
-      content="Guida di viaggio per Parigi 2026, ottimizzata per smartphone."
-    />
+    <meta name="description" content="Guida di viaggio per Parigi 2026, ottimizzata per smartphone." />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Nunito:wght@400;500;700&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Nunito:wght@400;500;700&display=swap" rel="stylesheet" />
     <style>
       :root {
         --bg: #fff7f4;
@@ -23,20 +17,11 @@
         --accent: #d05d7a;
         --accent-strong: #b84a67;
         --border: #edd4d8;
-        --card: rgba(255, 255, 255, 0.88);
-        --shadow: 0 18px 42px rgba(36, 45, 68, 0.12);
+        --card: rgba(255,255,255,0.88);
+        --shadow: 0 18px 42px rgba(36,45,68,0.12);
       }
-
-      * {
-        box-sizing: border-box;
-      }
-
-      html,
-      body {
-        margin: 0;
-        padding: 0;
-      }
-
+      * { box-sizing: border-box; }
+      html, body { margin: 0; padding: 0; }
       body {
         font-family: "Nunito", "Segoe UI", sans-serif;
         color: var(--ink);
@@ -46,7 +31,6 @@
           linear-gradient(160deg, var(--bg) 0%, var(--bg-soft) 52%, #fff6f8 100%);
         position: relative;
       }
-
       body::before {
         content: "";
         position: fixed;
@@ -56,19 +40,10 @@
         background-image:
           radial-gradient(circle at 1px 1px, #e6bfd0 1px, transparent 0),
           radial-gradient(circle at 1px 1px, #c5d3f0 1px, transparent 0);
-        background-size:
-          24px 24px,
-          28px 28px;
-        background-position:
-          0 0,
-          12px 10px;
+        background-size: 24px 24px, 28px 28px;
+        background-position: 0 0, 12px 10px;
       }
-
-      a {
-        color: var(--accent);
-        text-decoration-thickness: 2px;
-        text-underline-offset: 2px;
-      }
+      a { color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 2px; }
 
       .shell {
         width: min(1100px, calc(100% - 1.25rem));
@@ -76,6 +51,7 @@
         padding: 1rem 0 2.5rem;
       }
 
+      /* HERO */
       .hero {
         background: linear-gradient(140deg, #ffffffcf, #fff2f5df);
         border: 1px solid var(--border);
@@ -86,7 +62,6 @@
         position: relative;
         overflow: hidden;
       }
-
       .hero h1 {
         margin: 0;
         font-family: "Cormorant Garamond", Georgia, serif;
@@ -94,12 +69,7 @@
         line-height: 1.1;
         letter-spacing: 0.3px;
       }
-
-      .hero p {
-        margin: 0.35rem 0 0;
-        color: var(--ink-soft);
-      }
-
+      .hero p { margin: 0.35rem 0 0; color: var(--ink-soft); }
       .hero::after {
         content: "Paris Mood";
         position: absolute;
@@ -112,13 +82,7 @@
         text-transform: uppercase;
       }
 
-      .layout {
-        display: grid;
-        grid-template-columns: 260px minmax(0, 1fr);
-        gap: 1rem;
-        margin-top: 1rem;
-      }
-
+      /* MAP */
       .map-card {
         margin-top: 1rem;
         background: var(--card);
@@ -127,7 +91,6 @@
         box-shadow: var(--shadow);
         padding: clamp(0.85rem, 2vw, 1.1rem);
       }
-
       .map-head {
         display: flex;
         align-items: center;
@@ -135,18 +98,8 @@
         gap: 0.7rem;
         flex-wrap: wrap;
       }
-
-      .map-head h2 {
-        margin: 0;
-        font-family: "Cormorant Garamond", Georgia, serif;
-        font-size: 1.14rem;
-      }
-
-      .map-link {
-        font-size: 0.94rem;
-        white-space: nowrap;
-      }
-
+      .map-head h2 { margin: 0; font-family: "Cormorant Garamond", Georgia, serif; font-size: 1.14rem; }
+      .map-link { font-size: 0.94rem; white-space: nowrap; }
       .map-wrap {
         margin-top: 0.75rem;
         border: 1px solid #e8d8bf;
@@ -154,21 +107,18 @@
         overflow: hidden;
         background: #f8efe2;
       }
+      .map-wrap iframe { width: 100%; height: 58vh; min-height: 320px; border: 0; display: block; }
+      .map-note { margin: 0.65rem 0 0; color: var(--ink-soft); font-size: 0.93rem; }
 
-      .map-wrap iframe {
-        width: 100%;
-        height: 58vh;
-        min-height: 320px;
-        border: 0;
-        display: block;
+      /* LAYOUT */
+      .layout {
+        display: grid;
+        grid-template-columns: 260px minmax(0, 1fr);
+        gap: 1rem;
+        margin-top: 1rem;
       }
 
-      .map-note {
-        margin: 0.65rem 0 0;
-        color: var(--ink-soft);
-        font-size: 0.93rem;
-      }
-
+      /* TOC */
       .toc-card {
         position: sticky;
         top: 0.75rem;
@@ -178,19 +128,11 @@
         border-radius: 18px;
         box-shadow: var(--shadow);
         padding: 0.9rem;
+        max-height: calc(100vh - 1.5rem);
+        overflow-y: auto;
       }
-
-      .toc-card h2 {
-        margin: 0 0 0.55rem;
-        font-family: "Cormorant Garamond", Georgia, serif;
-        font-size: 1.05rem;
-      }
-
-      .toc-list {
-        display: grid;
-        gap: 0.45rem;
-      }
-
+      .toc-card h2 { margin: 0 0 0.55rem; font-family: "Cormorant Garamond", Georgia, serif; font-size: 1.05rem; }
+      .toc-list { display: grid; gap: 0.45rem; }
       .toc-list a {
         display: block;
         text-decoration: none;
@@ -199,16 +141,10 @@
         padding-left: 0.45rem;
         font-size: 0.96rem;
       }
+      .toc-list a:hover { border-left-color: var(--accent); color: var(--accent); }
+      .toc-level-2 { opacity: 0.9; }
 
-      .toc-list a:hover {
-        border-left-color: var(--accent);
-        color: var(--accent);
-      }
-
-      .toc-level-2 {
-        opacity: 0.9;
-      }
-
+      /* ARTICLE */
       .article {
         background: var(--card);
         border: 1px solid var(--border);
@@ -217,38 +153,15 @@
         padding: clamp(0.95rem, 2vw, 1.4rem);
         overflow-wrap: anywhere;
       }
-
-      .article > * {
-        animation: reveal 0.45s ease both;
-      }
-
-      .article h1,
-      .article h2,
-      .article h3 {
+      .article h1, .article h2, .article h3 {
         font-family: "Cormorant Garamond", Georgia, serif;
         line-height: 1.2;
         scroll-margin-top: 0.8rem;
       }
-
-      .article h1 {
-        margin-top: 1.45rem;
-      }
-
-      .article h2 {
-        margin-top: 1.25rem;
-      }
-
-      .article p,
-      .article li {
-        font-size: 1.03rem;
-        line-height: 1.58;
-      }
-
-      .article ul,
-      .article ol {
-        padding-left: 1.15rem;
-      }
-
+      .article h1 { margin-top: 1.45rem; }
+      .article h2 { margin-top: 1.25rem; }
+      .article p, .article li { font-size: 1.03rem; line-height: 1.58; }
+      .article ul, .article ol { padding-left: 1.15rem; }
       .article pre {
         white-space: pre-wrap;
         background: #f8efe2;
@@ -256,26 +169,16 @@
         border-radius: 10px;
         padding: 0.75rem;
       }
-
       .article img {
         width: 100%;
         height: auto;
         display: block;
         border-radius: 14px;
         border: 1px solid #e8d8bf;
-        box-shadow: 0 9px 22px rgba(26, 34, 47, 0.12);
+        box-shadow: 0 9px 22px rgba(26,34,47,0.12);
       }
-
-      .note-image {
-        margin: 1rem 0;
-      }
-
-      .page-note {
-        margin-top: 1rem;
-        font-size: 0.94rem;
-        color: var(--ink-soft);
-      }
-
+      .note-image { margin: 1rem 0; }
+      .page-note { margin-top: 1rem; font-size: 0.94rem; color: var(--ink-soft); }
       .error {
         background: #fff0ef;
         color: #7e2517;
@@ -284,6 +187,148 @@
         border-radius: 12px;
       }
 
+      /* ── ACCORDION FOR DAY SECTIONS ── */
+      .day-accordion {
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        overflow: hidden;
+        margin: 1.2rem 0;
+        box-shadow: 0 4px 14px rgba(36,45,68,0.07);
+      }
+      .day-accordion + .day-accordion { margin-top: 0.75rem; }
+
+      .day-toggle {
+        width: 100%;
+        background: linear-gradient(135deg, #fff0f3, #fff8f0);
+        border: none;
+        border-bottom: 1px solid var(--border);
+        padding: 0.85rem 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.75rem;
+        cursor: pointer;
+        text-align: left;
+        font-family: "Cormorant Garamond", Georgia, serif;
+        font-size: 1.08rem;
+        font-weight: 700;
+        color: var(--ink);
+        transition: background 0.2s;
+      }
+      .day-toggle:hover { background: linear-gradient(135deg, #ffe6ec, #fff3e8); }
+      .day-toggle[aria-expanded="true"] { border-bottom-color: var(--border); }
+      .day-toggle[aria-expanded="false"] { border-bottom: none; }
+
+      .day-chevron {
+        flex-shrink: 0;
+        width: 22px;
+        height: 22px;
+        border-radius: 50%;
+        background: var(--accent);
+        color: #fff;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 0.8rem;
+        line-height: 1;
+        transition: transform 0.3s ease;
+      }
+      .day-toggle[aria-expanded="true"] .day-chevron { transform: rotate(180deg); }
+
+      .day-body {
+        overflow: hidden;
+        transition: max-height 0.4s cubic-bezier(0.4,0,0.2,1), opacity 0.3s ease;
+        background: #fffcfb;
+      }
+      .day-body.is-open { opacity: 1; }
+      .day-body.is-closed { opacity: 0; max-height: 0 !important; }
+
+      .day-body-inner {
+        padding: 0.25rem 1rem 1rem;
+      }
+      .day-body-inner h2:first-child,
+      .day-body-inner h3:first-child { margin-top: 0.75rem; }
+
+      /* ── INTERACTIVE CHECKLIST ── */
+      .checklist-item {
+        display: flex;
+        align-items: flex-start;
+        gap: 0.6rem;
+        padding: 0.3rem 0;
+        cursor: pointer;
+        border-radius: 8px;
+        transition: background 0.15s;
+        margin: 0;
+        list-style: none;
+      }
+      .checklist-item:hover { background: rgba(208,93,122,0.06); }
+
+      .checklist-item input[type="checkbox"] {
+        appearance: none;
+        -webkit-appearance: none;
+        flex-shrink: 0;
+        width: 18px;
+        height: 18px;
+        margin-top: 3px;
+        border: 2px solid var(--accent);
+        border-radius: 5px;
+        background: #fff;
+        cursor: pointer;
+        transition: background 0.15s, border-color 0.15s;
+        position: relative;
+      }
+      .checklist-item input[type="checkbox"]:checked {
+        background: var(--accent);
+        border-color: var(--accent);
+      }
+      .checklist-item input[type="checkbox"]:checked::after {
+        content: "✓";
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-size: 0.7rem;
+        font-weight: 700;
+        line-height: 1;
+      }
+      .checklist-item label {
+        font-size: 1rem;
+        line-height: 1.5;
+        cursor: pointer;
+        flex: 1;
+        transition: color 0.15s, text-decoration 0.15s;
+      }
+      .checklist-item.is-checked label {
+        color: var(--ink-soft);
+        text-decoration: line-through;
+        text-decoration-color: var(--accent);
+      }
+      .checklist-reset {
+        margin-top: 0.65rem;
+        font-size: 0.88rem;
+        color: var(--accent);
+        background: none;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 0.3rem 0.75rem;
+        cursor: pointer;
+        transition: background 0.15s, color 0.15s;
+      }
+      .checklist-reset:hover { background: var(--accent); color: #fff; }
+
+      .checklist-progress {
+        font-size: 0.88rem;
+        color: var(--ink-soft);
+        margin-bottom: 0.5rem;
+      }
+      .checklist-progress span {
+        font-weight: 700;
+        color: var(--accent);
+      }
+
+      /* ── TO TOP BUTTON ── */
       .to-top {
         position: fixed;
         right: 1rem;
@@ -294,7 +339,7 @@
         border-radius: 999px;
         background: linear-gradient(160deg, #fff7fa, #ffeef4);
         color: var(--accent-strong);
-        box-shadow: 0 10px 26px rgba(71, 40, 62, 0.2);
+        box-shadow: 0 10px 26px rgba(71,40,62,0.2);
         font-size: 1.2rem;
         line-height: 1;
         display: inline-flex;
@@ -306,53 +351,23 @@
         transform: translateY(9px) scale(0.96);
         pointer-events: none;
         transition: opacity 0.25s ease, transform 0.25s ease, border-color 0.2s ease;
+        border: none;
+        /* SVG arrow up */
       }
-
-      .to-top.is-visible {
-        opacity: 0.92;
-        pointer-events: auto;
-        transform: translateY(0) scale(1);
-      }
-
-      .to-top:hover {
-        border-color: #d893a8;
-      }
-
-      .to-top:focus-visible {
-        outline: 2px solid #db7e98;
-        outline-offset: 2px;
-      }
+      .to-top.is-visible { opacity: 0.92; pointer-events: auto; transform: translateY(0) scale(1); }
+      .to-top:hover { border-color: #d893a8; }
+      .to-top:focus-visible { outline: 2px solid #db7e98; outline-offset: 2px; }
 
       @keyframes reveal {
-        from {
-          opacity: 0;
-          transform: translateY(7px);
-        }
-        to {
-          opacity: 1;
-          transform: translateY(0);
-        }
+        from { opacity: 0; transform: translateY(7px); }
+        to { opacity: 1; transform: translateY(0); }
       }
 
       @media (max-width: 900px) {
-        .layout {
-          grid-template-columns: minmax(0, 1fr);
-        }
-
-        .toc-card {
-          position: static;
-          order: -1;
-        }
-
-        .map-wrap iframe {
-          height: 48vh;
-          min-height: 280px;
-        }
-
-        .to-top {
-          right: 0.75rem;
-          bottom: 0.75rem;
-        }
+        .layout { grid-template-columns: minmax(0, 1fr); }
+        .toc-card { position: static; order: -1; }
+        .map-wrap iframe { height: 48vh; min-height: 280px; }
+        .to-top { right: 0.75rem; bottom: 0.75rem; }
       }
     </style>
   </head>
@@ -366,13 +381,7 @@
       <section class="map-card" aria-label="Mappa itinerario">
         <div class="map-head">
           <h2>Mappa delle tappe</h2>
-          <a
-            class="map-link"
-            href="https://www.google.com/maps/d/viewer?mid=1t3CdWSQNma9Z_ToSzMM-kAx713lcDNY&ll=48.947428520793196%2C2.2349325511622586&z=11"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Apri mappa completa</a
-          >
+          <a class="map-link" href="https://www.google.com/maps/d/viewer?mid=1t3CdWSQNma9Z_ToSzMM-kAx713lcDNY&ll=48.947428520793196%2C2.2349325511622586&z=11" target="_blank" rel="noopener noreferrer">Apri mappa completa</a>
         </div>
         <div class="map-wrap">
           <iframe
@@ -383,9 +392,7 @@
             src="https://www.google.com/maps/d/embed?mid=1t3CdWSQNma9Z_ToSzMM-kAx713lcDNY&ll=48.947428520793196%2C2.2349325511622586&z=11"
           ></iframe>
         </div>
-        <p class="map-note">
-          Se la mappa non appare, rendila "Pubblica sul web" in Google My Maps.
-        </p>
+        <p class="map-note">Se la mappa non appare, rendila "Pubblica sul web" in Google My Maps.</p>
       </section>
 
       <main class="layout">
@@ -396,79 +403,250 @@
         <article id="content" class="article" aria-live="polite"></article>
       </main>
 
-      <p class="page-note">
-        Modifica solo il file markdown: questa pagina lo converte automaticamente.
-      </p>
+      <p class="page-note">Modifica solo il file markdown: questa pagina lo converte automaticamente.</p>
     </div>
 
     <button id="toTopBtn" class="to-top" type="button" aria-label="Torna in cima">
-      ↑
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path d="M8 12V4M8 4L4 8M8 4L12 8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
     </button>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
       const NOTE_FILE = "Itinerario Parigi 2026.md";
 
-      const escapeHtmlAttr = (value) =>
-        value
-          .replaceAll("&", "&amp;")
-          .replaceAll('"', "&quot;")
-          .replaceAll("<", "&lt;")
-          .replaceAll(">", "&gt;");
+      // ── Utilities ─────────────────────────────────────
+      const escapeHtmlAttr = (v) =>
+        v.replaceAll("&","&amp;").replaceAll('"',"&quot;").replaceAll("<","&lt;").replaceAll(">","&gt;");
 
       const slugify = (text) =>
-        text
-          .toLowerCase()
-          .normalize("NFD")
-          .replace(/[\u0300-\u036f]/g, "")
-          .replace(/[^a-z0-9\s-]/g, "")
-          .trim()
-          .replace(/\s+/g, "-")
-          .replace(/-+/g, "-");
+        text.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"")
+          .replace(/[^a-z0-9\s-]/g,"").trim().replace(/\s+/g,"-").replace(/-+/g,"-");
 
-      function preprocessMarkdown(rawMarkdown) {
-        let md = rawMarkdown.replace(/\r\n/g, "\n");
-
+      // ── Markdown preprocessing ────────────────────────
+      function preprocessMarkdown(raw) {
+        let md = raw.replace(/\r\n/g, "\n");
         md = md.replace(/```table-of-contents[\s\S]*?```/gi, "");
-
-        md = md.replace(
-          /<div class="page-break"[\s\S]*?<\/div>/gi,
-          ""
-        );
-
+        md = md.replace(/<div class="page-break"[\s\S]*?<\/div>/gi, "");
         md = md.replace(/!\[\[([^\]|]+)(?:\|(\d+))?\]\]/g, (_, fileName, width) => {
           const trimmedFile = fileName.trim();
           const imgSrc = encodeURI(trimmedFile);
-          const alt = escapeHtmlAttr(
-            trimmedFile.replace(/\.[a-zA-Z0-9]+$/, "").replace(/[-_]/g, " ")
-          );
-          const widthAttr =
-            width && Number.isFinite(Number(width))
-              ? ` style="max-width:${Number(width)}px"`
-              : "";
+          const alt = escapeHtmlAttr(trimmedFile.replace(/\.[a-zA-Z0-9]+$/, "").replace(/[-_]/g, " "));
+          const widthAttr = width && Number.isFinite(Number(width)) ? ` style="max-width:${Number(width)}px"` : "";
           return `<figure class="note-image"><img src="${imgSrc}" alt="${alt}"${widthAttr} loading="lazy" /></figure>`;
         });
-
         return md;
       }
 
+      // ── Day labels for accordion ──────────────────────
+      const DAY_LABELS = {
+        "12 maggio 2026": "12 Maggio · Arrivo",
+        "13 maggio 2026": "13 Maggio · Invalides + Louvre",
+        "14 maggio 2026": "14 Maggio · Montmartre + Opéra",
+        "15 maggio 2026": "15 Maggio · Marais + Catacombe + Orsay",
+        "16 maggio 2026": "16 Maggio · Rientro",
+      };
+
+      // ── Build accordion from H1 day sections ─────────
+      function wrapDayAccordions(container) {
+        // Find all H1s that correspond to day sections
+        const allH1s = [...container.querySelectorAll("h1")];
+        const dayH1s = allH1s.filter(h => {
+          const text = h.textContent.toLowerCase();
+          return /^\d{1,2} maggio 2026/.test(text);
+        });
+
+        if (!dayH1s.length) return;
+
+        // For each day H1, collect sibling content until next H1
+        dayH1s.forEach((h1, idx) => {
+          const nextDayH1 = dayH1s[idx + 1] || null;
+
+          // Collect all nodes between this h1 and next day h1
+          const nodes = [];
+          let node = h1.nextSibling;
+          while (node) {
+            if (node === nextDayH1) break;
+            nodes.push(node);
+            node = node.nextSibling;
+          }
+
+          // Create accordion wrapper
+          const accordion = document.createElement("div");
+          accordion.className = "day-accordion";
+
+          // Determine label
+          const h1Text = h1.textContent || "";
+          const dateMatch = h1Text.match(/^(\d{1,2} Maggio \d{4})/i);
+          const dateKey = dateMatch ? dateMatch[1].toLowerCase() : "";
+          const label = DAY_LABELS[dateKey] || h1Text;
+
+          // Build button
+          const btn = document.createElement("button");
+          btn.className = "day-toggle";
+          btn.setAttribute("aria-expanded", "false");
+          btn.innerHTML = `<span>${label}</span><span class="day-chevron" aria-hidden="true">▾</span>`;
+
+          // Build body
+          const body = document.createElement("div");
+          body.className = "day-body is-closed";
+          body.style.maxHeight = "0";
+
+          const inner = document.createElement("div");
+          inner.className = "day-body-inner";
+
+          // Move h1 into the inner (styled differently)
+          const h1Clone = h1.cloneNode(true);
+          h1Clone.style.marginTop = "0.75rem";
+          inner.appendChild(h1Clone);
+
+          // Move collected nodes into inner
+          nodes.forEach(n => inner.appendChild(n.cloneNode(true)));
+
+          body.appendChild(inner);
+          accordion.appendChild(btn);
+          accordion.appendChild(body);
+
+          // Toggle logic
+          btn.addEventListener("click", () => {
+            const isOpen = btn.getAttribute("aria-expanded") === "true";
+            if (isOpen) {
+              // close
+              body.style.maxHeight = body.scrollHeight + "px";
+              requestAnimationFrame(() => {
+                body.style.maxHeight = "0";
+                body.classList.add("is-closed");
+                body.classList.remove("is-open");
+              });
+              btn.setAttribute("aria-expanded", "false");
+            } else {
+              // open
+              body.classList.remove("is-closed");
+              body.classList.add("is-open");
+              body.style.maxHeight = body.scrollHeight + "px";
+              btn.setAttribute("aria-expanded", "true");
+              // after transition, set to auto so images etc can resize
+              body.addEventListener("transitionend", function once() {
+                if (btn.getAttribute("aria-expanded") === "true") {
+                  body.style.maxHeight = "none";
+                }
+                body.removeEventListener("transitionend", once);
+              });
+            }
+          });
+
+          // Replace original h1 with the accordion
+          h1.parentNode.insertBefore(accordion, h1);
+          h1.remove();
+          nodes.forEach(n => n.remove());
+        });
+      }
+
+      // ── Interactive checklists ────────────────────────
+      const STORAGE_KEY = "parigi2026_checklist";
+
+      function loadChecked() {
+        try { return new Set(JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]")); }
+        catch { return new Set(); }
+      }
+      function saveChecked(set) {
+        try { localStorage.setItem(STORAGE_KEY, JSON.stringify([...set])); } catch {}
+      }
+      let checkedItems = loadChecked();
+
+      function updateProgress(group) {
+        const boxes = group.querySelectorAll(".checklist-item");
+        const done = group.querySelectorAll(".checklist-item.is-checked").length;
+        const prog = group.querySelector(".checklist-progress");
+        if (prog) prog.innerHTML = `Completati: <span>${done} / ${boxes.length}</span>`;
+      }
+
+      function buildChecklists(container) {
+        // Find all ul containing task items (- [ ] or - [x])
+        // Since marked converts them to <li> with <input type="checkbox">, we enhance them
+        const checkboxLis = [...container.querySelectorAll("li input[type='checkbox']")];
+        if (!checkboxLis.length) return;
+
+        // Group by parent ul
+        const lists = new Set(checkboxLis.map(cb => cb.closest("ul")));
+        lists.forEach(ul => {
+          // Add progress counter before list
+          const prog = document.createElement("p");
+          prog.className = "checklist-progress";
+          ul.parentNode.insertBefore(prog, ul);
+
+          ul.querySelectorAll("li").forEach((li, i) => {
+            const cb = li.querySelector("input[type='checkbox']");
+            if (!cb) return;
+
+            li.className = "checklist-item";
+            cb.removeAttribute("disabled");
+
+            // Generate stable ID from text content
+            const text = li.textContent.trim().slice(0, 80);
+            const id = "chk_" + slugify(text).slice(0, 40) + "_" + i;
+            cb.id = id;
+            cb.checked = checkedItems.has(id);
+
+            // Wrap text in label
+            const label = document.createElement("label");
+            label.setAttribute("for", id);
+            // Move text nodes into label
+            [...li.childNodes].forEach(node => {
+              if (node !== cb) label.appendChild(node.cloneNode(true));
+            });
+            // Clear li and rebuild
+            li.innerHTML = "";
+            li.appendChild(cb);
+            li.appendChild(label);
+
+            if (cb.checked) li.classList.add("is-checked");
+
+            cb.addEventListener("change", () => {
+              if (cb.checked) {
+                checkedItems.add(id);
+                li.classList.add("is-checked");
+              } else {
+                checkedItems.delete(id);
+                li.classList.remove("is-checked");
+              }
+              saveChecked(checkedItems);
+              updateProgress(ul.parentNode);
+            });
+          });
+
+          // Reset button
+          const resetBtn = document.createElement("button");
+          resetBtn.className = "checklist-reset";
+          resetBtn.textContent = "↺ Azzera lista";
+          resetBtn.addEventListener("click", () => {
+            ul.querySelectorAll(".checklist-item input[type='checkbox']").forEach(cb => {
+              cb.checked = false;
+              checkedItems.delete(cb.id);
+              cb.closest(".checklist-item").classList.remove("is-checked");
+            });
+            saveChecked(checkedItems);
+            updateProgress(ul.parentNode);
+          });
+          ul.after(resetBtn);
+
+          updateProgress(ul.parentNode);
+        });
+      }
+
+      // ── TOC ───────────────────────────────────────────
       function buildToc(container) {
         const toc = document.getElementById("toc");
         toc.innerHTML = "";
-
         const headings = [...container.querySelectorAll("h1, h2")];
-        if (!headings.length) {
-          toc.innerHTML = "<p>Nessun titolo trovato.</p>";
-          return;
-        }
-
+        if (!headings.length) { toc.innerHTML = "<p>Nessun titolo trovato.</p>"; return; }
         const seen = new Map();
-        headings.forEach((heading) => {
+        headings.forEach(heading => {
           const base = slugify(heading.textContent || "sezione") || "sezione";
           const count = (seen.get(base) || 0) + 1;
           seen.set(base, count);
           heading.id = count > 1 ? `${base}-${count}` : base;
-
           const link = document.createElement("a");
           link.href = `#${heading.id}`;
           link.textContent = heading.textContent || heading.id;
@@ -478,53 +656,39 @@
       }
 
       function staggerReveal(container) {
-        const blocks = [...container.children];
-        blocks.forEach((block, index) => {
-          block.style.animationDelay = `${Math.min(index * 20, 260)}ms`;
+        [...container.children].forEach((block, i) => {
+          block.style.animation = `reveal 0.45s ease ${Math.min(i * 20, 260)}ms both`;
         });
       }
 
+      // ── To-top button ─────────────────────────────────
       function setupToTopButton() {
         const button = document.getElementById("toTopBtn");
-        if (!button) {
-          return;
-        }
-
-        const toggleVisibility = () => {
-          button.classList.toggle("is-visible", window.scrollY > 420);
-        };
-
-        window.addEventListener("scroll", toggleVisibility, { passive: true });
-        toggleVisibility();
-
-        button.addEventListener("click", () => {
-          window.scrollTo({ top: 0, behavior: "smooth" });
-        });
+        if (!button) return;
+        const toggle = () => button.classList.toggle("is-visible", window.scrollY > 420);
+        window.addEventListener("scroll", toggle, { passive: true });
+        toggle();
+        button.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
       }
 
+      // ── Main render ───────────────────────────────────
       async function renderPage() {
         const content = document.getElementById("content");
         try {
-          if (!window.marked) {
-            throw new Error("Libreria markdown non disponibile.");
-          }
-
+          if (!window.marked) throw new Error("Libreria markdown non disponibile.");
           const response = await fetch(encodeURI(NOTE_FILE), { cache: "no-store" });
-          if (!response.ok) {
-            throw new Error(
-              `Impossibile leggere "${NOTE_FILE}" (HTTP ${response.status}).`
-            );
-          }
+          if (!response.ok) throw new Error(`Impossibile leggere "${NOTE_FILE}" (HTTP ${response.status}).`);
 
           const markdownRaw = await response.text();
           const markdownProcessed = preprocessMarkdown(markdownRaw);
-          content.innerHTML = marked.parse(markdownProcessed, {
-            breaks: true,
-            gfm: true
-          });
+          content.innerHTML = marked.parse(markdownProcessed, { breaks: true, gfm: true });
 
+          // Post-process
+          wrapDayAccordions(content);
+          buildChecklists(content);
           buildToc(content);
           staggerReveal(content);
+
         } catch (error) {
           content.innerHTML = `<div class="error"><strong>Errore:</strong> ${escapeHtmlAttr(String(error.message || error))}</div>`;
         }
