@@ -130,7 +130,8 @@ Opzioni:
 - **61 Rue Oberkampf** → alternativa
 
 ### 2) Musée de l'Armée + Tomba di Napoleone
-- Arrivo previsto: **10:00 circa**
+- **Ingresso prenotato: 10:00**
+- Arrivo consigliato: **9:45–10:00**
 - **Durata consigliata:** **1h30–2h**
 - Fascia oraria indicativa: **10:00–12:00**
 - **Gratis per under 26**
@@ -145,11 +146,11 @@ Il complesso degli Invalides è molto importante storicamente e architettonicame
 È uno dei ponti più eleganti di Parigi, ricco di decorazioni e ottimo per foto e vista sulla Senna.
 
 ### 4) Musée de l'Orangerie
-- Arrivo consigliato: **13:15–13:25**
 - **Ingresso prenotato: 13:30**
+- Arrivo consigliato: **13:10–13:25**
 - **Durata consigliata:** **1 ora**
 - Fascia oraria indicativa: **13:30–14:30**
-- **Biglietti:** prenotazione online consigliata
+- **Biglietti:** prenotazione online già confermata
 
 Il Musée de l'Orangerie ospita le Ninfee di Monet e altre opere impressioniste. È un museo più piccolo e gestibile, perfetto per una visita veloce.
 
@@ -165,7 +166,7 @@ Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio b
 
 ### 6) Pausa pranzo
 - Orario consigliato: **12:15–13:15**
-- Meglio un pranzo veloce, così da arrivare al Musée de l'Orangerie in tempo per l'ingresso delle 13:30
+- Meglio un pranzo veloce e vicino al Pont Alexandre III, così da arrivare al Musée de l'Orangerie in tempo per l'ingresso delle 13:30
 
 | Zona | Posto | Note |
 | --- | --- | --- |
@@ -182,7 +183,6 @@ Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio b
 - Fascia oraria indicativa: **16:00–16:30**
 
 - **Giardini delle Tuileries**: passeggiata molto piacevole, ideale per rallentare
-
 #### Piccoli extra in zona Louvre / Palais-Royal
 - **The Mètre Étalon** – vicino al Palais-Royal, curiosità storica
 - **59 Rivoli** – 59 Rue de Rivoli, collettivo di artisti, molto particolare
@@ -191,8 +191,8 @@ Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio b
 - **Salvador Dalí Sundial** e **Arago Medallions** – piccole curiosità da notare
 
 ### 8) Louvre
-- Arrivo consigliato: **16:15–16:30**
 - **Ingresso prenotato: 16:30**
+- Arrivo consigliato: **16:15–16:30**
 - **Durata consigliata:** **2h30–3h**
 - Fine visita stimata: **19:30–20:00**
 
@@ -225,12 +225,12 @@ Il Louvre è gigantesco: impossibile vedere tutto bene in una sola visita. Convi
 | Orario | Tappa |
 | --- | --- |
 | **9:15** | Colazione |
-| **10:00** | Musée de l'Armée |
+| **10:00** | Musée de l'Armée (ingresso prenotato) |
 | **12:00** | Pont Alexandre III |
-| **13:30** | Musée de l'Orangerie |
+| **13:30** | Musée de l'Orangerie (ingresso prenotato) |
 | **14:45** | Petit Palais |
 | **16:00** | Tuileries |
-| **16:30** | Louvre |
+| **16:30** | Louvre (ingresso prenotato) |
 | **19:30–20:00** | Fine visita |
 | **20:00 circa** | Cena in zona Les Halles / Châtelet |
 
