@@ -139,26 +139,33 @@ Il complesso degli Invalides è molto importante storicamente e architettonicame
 
 ### 3) Pont Alexandre III
 - Tempo di spostamento: **15–20 minuti**
-- Arrivo previsto: **11:50–12:15**
-- **Durata consigliata:** **15–20 minuti**
+- Arrivo previsto: **12:00 circa**
+- **Durata consigliata:** **15 minuti**
 
 È uno dei ponti più eleganti di Parigi, ricco di decorazioni e ottimo per foto e vista sulla Senna.
 
-### 4) Grand Palais / Petit Palais
-- Arrivo previsto: **12:15–12:30**
+### 4) Musée de l'Orangerie
+- Arrivo consigliato: **13:15–13:25**
+- **Ingresso prenotato: 13:30**
+- **Durata consigliata:** **1 ora**
+- Fascia oraria indicativa: **13:30–14:30**
+- **Biglietti:** prenotazione online consigliata
 
-#### Petit Palais
+Il Musée de l'Orangerie ospita le Ninfee di Monet e altre opere impressioniste. È un museo più piccolo e gestibile, perfetto per una visita veloce.
+
+### 5) Petit Palais
+- Arrivo previsto: **14:30 circa**
 - **Durata consigliata:** **1h–1h30**
-- Fascia oraria indicativa: **12:30–14:00**
+- Fascia oraria indicativa: **14:30–16:00**
 - **Collezione permanente gratuita**
 
 Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio bellissimo, collezioni interessanti, visita più leggera rispetto ai musei enormi.
 
 ## Pranzo
 
-### 5) Pausa pranzo
-- Orario consigliato: **13:30–14:30**
-- Meglio un pranzo non troppo lungo, per arrivare al Louvre con calma
+### 6) Pausa pranzo
+- Orario consigliato: **12:15–13:15**
+- Meglio un pranzo veloce, così da arrivare al Musée de l'Orangerie in tempo per l'ingresso delle 13:30
 
 | Zona | Posto | Note |
 | --- | --- | --- |
@@ -171,11 +178,10 @@ Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio b
 
 ## Pomeriggio
 
-### 6) Tuileries + Orangerie
-- Fascia oraria indicativa: **14:30–15:30**
+### 7) Tuileries
+- Fascia oraria indicativa: **16:00–16:30**
 
 - **Giardini delle Tuileries**: passeggiata molto piacevole, ideale per rallentare
-- **Orangerie**: da valutare solo se avete davvero voglia/tempo, altrimenti meglio tenere energie per il Louvre
 
 #### Piccoli extra in zona Louvre / Palais-Royal
 - **The Mètre Étalon** – vicino al Palais-Royal, curiosità storica
@@ -184,17 +190,18 @@ Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio b
 - **Officine Universelle Buly** – 6 rue Bonaparte, perfetta per souvenir / profumi vintage style
 - **Salvador Dalí Sundial** e **Arago Medallions** – piccole curiosità da notare
 
-### 7) Louvre
-- Arrivo consigliato: **16:00**, **ingresso previsto: 16:30**
+### 8) Louvre
+- Arrivo consigliato: **16:15–16:30**
+- **Ingresso prenotato: 16:30**
 - **Durata consigliata:** **2h30–3h**
-- Fine visita stimata: **19:00–19:30**
+- Fine visita stimata: **19:30–20:00**
 
 Il Louvre è gigantesco: impossibile vedere tutto bene in una sola visita. Conviene entrare già con un'idea chiara delle opere o sezioni prioritarie. Se non volete distruggervi, meglio selezionare un percorso essenziale.
 
 ## Sera
 
-### 8) Cena in zona Châtelet / Les Halles
-- Uscita dal Louvre: **19:00–19:30**
+### 9) Cena in zona Châtelet / Les Halles
+- Uscita dal Louvre: **19:30–20:00**
 - Cena: circa **20:00**
 
 #### Extra in zona serale
@@ -220,11 +227,11 @@ Il Louvre è gigantesco: impossibile vedere tutto bene in una sola visita. Convi
 | **9:15** | Colazione |
 | **10:00** | Musée de l'Armée |
 | **12:00** | Pont Alexandre III |
-| **12:30** | Petit Palais |
-| **13:30–14:00** | Pranzo |
-| **14:30** | Tuileries |
+| **13:30** | Musée de l'Orangerie |
+| **14:45** | Petit Palais |
+| **16:00** | Tuileries |
 | **16:30** | Louvre |
-| **19:00–19:30** | Fine visita |
+| **19:30–20:00** | Fine visita |
 | **20:00 circa** | Cena in zona Les Halles / Châtelet |
 
 ---
@@ -551,7 +558,7 @@ Percorso di riferimento: https://www.rome2rio.com/map/Paris-Rooms-Dreams-Hotel/B
 | Giorno | Tappe principali |
 | --- | --- |
 | **12 maggio** | Arrivo, hotel, Champs-Élysées, Arco di Trionfo, Trocadéro, crociera, Torre Eiffel |
-| **13 maggio** | Rue du Bac, Musée de l'Armée, Pont Alexandre III, Petit Palais, Tuileries, Louvre, Châtelet / Les Halles |
+| **13 maggio** | Rue du Bac, Musée de l'Armée, Pont Alexandre III, Orangerie, Petit Palais, Tuileries, Louvre, Châtelet / Les Halles |
 | **14 maggio** | Montmartre, Sacro Cuore, Place du Tertre, Maison Rose, Pigalle, Moulin Rouge, Galeries Lafayette, Palais Garnier, Orsay |
 | **15 maggio** | Rue Crémieux, Place des Vosges, Museo Victor Hugo, Le Marais, Marché des Enfants Rouges, Notre-Dame, Catacombe, Lussemburgo |
 | **16 maggio** | Rientro a Beauvais e volo per Bologna |
