@@ -67,6 +67,9 @@ Il Trocadéro è uno dei punti panoramici migliori per vedere la Torre Eiffel fr
 - **Girafe** – rooftop vista Torre Eiffel, prezzi alti, da prenotare
 
 ### 4) Crociera sulla Senna
+
+![[CrocieraSenna.png]]
+
 - Compagnia consigliata: **Bateaux Mouches** — https://www.bateaux-mouches.fr/it/crociera/crociera_classica
 - Partenze **ogni 30 minuti**, ultime fino alle **22:30**
 - Imbarco realistico: **20:15–20:45**
@@ -580,8 +583,6 @@ Percorso di riferimento: https://www.rome2rio.com/map/Paris-Rooms-Dreams-Hotel/B
 ---
 
 # VALIGIE · GUIDA RAPIDA
-
-![[CrocieraSenna.png]]
 
 ## i. Bagagli in cabina
 
