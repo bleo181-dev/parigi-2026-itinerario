@@ -311,25 +311,24 @@ Le Galeries valgono la visita anche senza shopping, soprattutto per gli interni 
 
 ### 9) Palais Garnier
 - **Durata consigliata:** **30–45 minuti**
-- Fascia indicativa: **17:00–17:45**
+- Fascia indicativa: **16:15–16:45**
 - Se visitate anche gli interni, considerate più tempo **[R]**
 
 È uno dei teatri d'opera più famosi al mondo e uno degli edifici più scenografici della città.
 
-#### Extra in zona Opéra
-- **Fragonard** – boutique / visita profumi gratuita
-- **Musée Grévin** – museo delle cere
-- **Pain d'Épices** – per souvenir dolci
-- **Land&Monkeys** – bakery vegana
+### 10) Musée d'Orsay
+- Spostamento: **20–25 minuti**
+- Arrivo consigliato: **16:30–16:45**
+- **Durata consigliata:** circa **1 ora**
+- **Museo chiude alle 18:00**
+- Meglio essere lì in anticipo per fare la fila e restare dentro quasi un'ora
+
+Il museo è molto più gestibile del Louvre e spesso più godibile a fine giornata. Se amate impressionismo e post-impressionismo, è una delle tappe più forti del viaggio.
 
 ## Sera
 
-### 10) Aperitivo / tempo libero
-- Fascia: **17:45–19:30**
-- Perfetto per rallentare, fare shopping o fermarsi in un caffè
-
 ### 11) Cena in zona Opéra / Haussmann
-- Orario consigliato: **19:30–21:00**
+- Orario consigliato: **18:30–19:30**
 - Rientro in hotel con **metro M12**, circa **30 minuti**
 
 | Zona | Posto | Note |
@@ -354,14 +353,15 @@ Le Galeries valgono la visita anche senza shopping, soprattutto per gli interni 
 | **13:00** | Pranzo |
 | **14:30** | Pigalle |
 | **14:45** | Moulin Rouge |
-| **16:00** | Galeries Lafayette |
-| **17:00** | Palais Garnier |
-| **19:30** | Cena |
-| **21:30 circa** | Rientro |
+| **15:30** | Galeries Lafayette |
+| **16:15** | Palais Garnier |
+| **16:30–16:45** | Arrivo Musée d'Orsay |
+| **18:30** | Cena |
+| **19:30 circa** | Rientro |
 
 ---
 
-# 15 MAGGIO 2026 · RUE CRÉMIEUX + BASTIGLIA + PLACE DES VOSGES + MARAIS + NOTRE-DAME + CATACOMBE + LUSSEMBURGO + ORSAY
+# 15 MAGGIO 2026 · RUE CRÉMIEUX + BASTIGLIA + PLACE DES VOSGES + MARAIS + NOTRE-DAME + CATACOMBE + LUSSEMBURGO
 
 ![[Pasted image 20260215182616.png]]
 
@@ -475,17 +475,10 @@ Tappa perfetta per riprendersi dopo le Catacombe: più luce, più aria, atmosfer
 - **Benchy** – per matcha / pausa
 - Zona Saint-Germain sempre piacevole se volete allungare un po'
 
-### 10) Musée d'Orsay
-- Spostamento: **20–25 minuti**
-- Arrivo realistico: **19:00 circa**
-- **Durata consigliata:** **1h30–2h**
-
-Il museo è molto più gestibile del Louvre e spesso più godibile a fine giornata. Se amate impressionismo e post-impressionismo, è una delle tappe più forti del viaggio.
-
 ## Sera
 
-### 11) Cena
-- Orario previsto: **20:30–21:30** (dopo il museo)
+### 10) Cena
+- Orario previsto: **20:30–21:30**
 - Cena libera, "alla bersagliera"
 
 #### Idee serali
@@ -514,7 +507,6 @@ Il museo è molto più gestibile del Louvre e spesso più godibile a fine giorna
 | **15:00** | Notre-Dame |
 | **16:30–17:00** | Catacombe |
 | **17:45–18:00** | Giardino del Lussemburgo |
-| **19:00** | Musée d'Orsay |
 | **20:30–21:00** | Cena |
 
 ---
@@ -560,8 +552,8 @@ Percorso di riferimento: https://www.rome2rio.com/map/Paris-Rooms-Dreams-Hotel/B
 | --- | --- |
 | **12 maggio** | Arrivo, hotel, Champs-Élysées, Arco di Trionfo, Trocadéro, crociera, Torre Eiffel |
 | **13 maggio** | Rue du Bac, Musée de l'Armée, Pont Alexandre III, Petit Palais, Tuileries, Louvre, Châtelet / Les Halles |
-| **14 maggio** | Montmartre, Sacro Cuore, Place du Tertre, Maison Rose, Pigalle, Moulin Rouge, Galeries Lafayette, Palais Garnier |
-| **15 maggio** | Rue Crémieux, Place des Vosges, Museo Victor Hugo, Le Marais, Marché des Enfants Rouges, Notre-Dame, Catacombe, Lussemburgo, Orsay |
+| **14 maggio** | Montmartre, Sacro Cuore, Place du Tertre, Maison Rose, Pigalle, Moulin Rouge, Galeries Lafayette, Palais Garnier, Orsay |
+| **15 maggio** | Rue Crémieux, Place des Vosges, Museo Victor Hugo, Le Marais, Marché des Enfants Rouges, Notre-Dame, Catacombe, Lussemburgo |
 | **16 maggio** | Rientro a Beauvais e volo per Bologna |
 
 ---
