@@ -5,7 +5,7 @@
 
 # 12 MAGGIO 2026 · ARRIVO + CHAMPS-ÉLYSÉES + ARCO + TROCADÉRO + TORRE EIFFEL
 
-![[Pasted image 20260215174337.png]]
+![[Giorno1.png]]
 
 ## Volo e trasferimento
 
@@ -15,7 +15,7 @@
 
 ### Da Beauvais all'hotel
 
-![[andata.png]]
+![[Andata_MezziPubblici.png]]
 
 **Obiettivo realistico:** arrivare in hotel per il check-in verso **16:15** ed essere pronti per uscire tra **16:30 e 17:00**.
 
@@ -115,7 +115,7 @@ La zona è perfetta per una passeggiata serale tranquilla. Anche se non salite s
 
 # 13 MAGGIO 2026 · INVALIDES + PETIT PALAIS + TUILERIES + LOUVRE + LES HALLES
 
-![[Pasted image 20260215181807.png]]
+![[Giorno2.png]]
 
 Il percorso conviene farlo **al contrario rispetto allo screenshot originale**, così da lasciare il **Louvre per il pomeriggio**, quando avete già visto bene la zona degli Invalides e dei palazzi lungo la Senna.
 
@@ -231,7 +231,7 @@ Il Louvre è gigantesco: impossibile vedere tutto bene in una sola visita. Convi
 
 # 14 MAGGIO 2026 · MONTMARTRE + PIGALLE + OPÉRA
 
-![[Pasted image 20260215182604.png]]
+![[Giorno3.png]]
 
 ## Mattina
 
@@ -363,7 +363,7 @@ Il museo è molto più gestibile del Louvre e spesso più godibile a fine giorna
 
 # 15 MAGGIO 2026 · RUE CRÉMIEUX + BASTIGLIA + PLACE DES VOSGES + MARAIS + NOTRE-DAME + CATACOMBE + LUSSEMBURGO
 
-![[Pasted image 20260215182616.png]]
+![[Giorno4.png]]
 
 ## Mattina
 
@@ -513,7 +513,7 @@ Tappa perfetta per riprendersi dopo le Catacombe: più luce, più aria, atmosfer
 
 # 16 MAGGIO 2026 · RIENTRO
 
-![[Pasted image 20260215182634.png]]
+![[Ritorno_MezziPubblici.png]]
 
 ## Volo e trasferimento
 
@@ -574,7 +574,7 @@ Percorso di riferimento: https://www.rome2rio.com/map/Paris-Rooms-Dreams-Hotel/B
 
 # VALIGIE · GUIDA RAPIDA
 
-![[Pasted image 20260215120404.png]]
+![[CrocieraSenna.png]]
 
 ## i. Bagagli in cabina
 
