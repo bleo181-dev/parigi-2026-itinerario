@@ -52,19 +52,13 @@ Gli Champs-Élysées sono più belli come passeggiata che come "visita": l'idea 
 - Fine visita stimata: **18:45–19:00**
 - **Biglietti:** acquisto in loco in biglietteria (non prenotabili online)
 
-L'Arco è uno dei simboli assoluti di Parigi. Anche solo da fuori vale la pena fermarsi bene a guardare la piazza e il traffico radiocentrico che converge intorno al monumento. Se decidete di salire, considerate un po' più di tempo.
+L'Arco è uno dei simboli assoluti di Parigi. Anche solo da fuori vale la pena fermarsi bene a guardare la piazza.
 
 ### 3) Trocadéro
 - Tempo di spostamento: **20–30 minuti**
 - Arrivo previsto: **19:15–19:30**
 - **Durata consigliata:** **30–45 minuti**
 
-Il Trocadéro è uno dei punti panoramici migliori per vedere la Torre Eiffel frontalmente. È una delle tappe perfette per le foto del primo giorno.
-
-#### Extra molto vicini al Trocadéro
-- **Maison Boissier** – 48 rue de Passy, 16° — candy boutique molto carina
-- **Café de l'Homme** – vista Torre Eiffel, da prenotare
-- **Girafe** – rooftop vista Torre Eiffel, prezzi alti, da prenotare
 
 ### 4) Crociera sulla Senna
 
@@ -80,8 +74,6 @@ La crociera è ottima appena arrivati perché permette di vedere tanti luoghi ic
 ### 5) Torre Eiffel / Campo di Marte
 - Orario previsto dopo la crociera: **21:30–22:00**
 - **Durata consigliata:** **30–45 minuti**
-
-La zona è perfetta per una passeggiata serale tranquilla. Anche se non salite sulla Torre, vederla da sotto e dal prato del Campo di Marte resta una delle esperienze più belle del viaggio.
 
 #### Extra vicini alla Torre Eiffel
 - **Port de Billy** – spot davanti alla Torre, bel punto foto la sera
@@ -139,14 +131,10 @@ Opzioni:
 - Fascia oraria indicativa: **10:00–12:00**
 - **Gratis per under 26**
 
-Il complesso degli Invalides è molto importante storicamente e architettonicamente. Anche senza vedere tutto nel dettaglio, vale la pena dedicarci un po' di tempo: è uno dei luoghi più solenni della città.
-
 ### 3) Pont Alexandre III
 - Tempo di spostamento: **15–20 minuti**
 - Arrivo previsto: **12:00 circa**
 - **Durata consigliata:** **15 minuti**
-
-È uno dei ponti più eleganti di Parigi, ricco di decorazioni e ottimo per foto e vista sulla Senna.
 
 ### 4) Musée de l'Orangerie
 - **Ingresso prenotato: 13:30**
@@ -155,7 +143,7 @@ Il complesso degli Invalides è molto importante storicamente e architettonicame
 - Fascia oraria indicativa: **13:30–14:30**
 - **Biglietti:** prenotazione online già confermata
 
-Il Musée de l'Orangerie ospita le Ninfee di Monet e altre opere impressioniste. È un museo più piccolo e gestibile, perfetto per una visita veloce.
+Il Musée de l'Orangerie ospita le Ninfee di Monet e altre opere impressioniste. 
 
 ### 5) Petit Palais
 - Arrivo previsto: **14:30 circa**
@@ -163,22 +151,11 @@ Il Musée de l'Orangerie ospita le Ninfee di Monet e altre opere impressioniste.
 - Fascia oraria indicativa: **14:30–16:00**
 - **Collezione permanente gratuita**
 
-Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio bellissimo, collezioni interessanti, visita più leggera rispetto ai musei enormi.
-
 ## Pranzo
 
 ### 6) Pausa pranzo
 - Orario consigliato: **12:15–13:15**
 - Meglio un pranzo veloce e vicino al Pont Alexandre III, così da arrivare al Musée de l'Orangerie in tempo per l'ingresso delle 13:30
-
-| Zona | Posto | Note |
-| --- | --- | --- |
-| Rue du Bac 7 | **The French Bastards** | bakery / colazione |
-| Invalides 7 | **Kozy Bosquet** – 79 Av. Bosquet | brunch all-day |
-| Tuileries 1 | **Angelina** – 226 Rue de Rivoli | tea room storica, cioccolata |
-| Louvre 1 | **Café Kitsuné Louvre** – 2 pl. André Malraux | café di design |
-| Louvre 1 | **Bo&Mie** – 91 Rue de Rivoli | bakery creativa |
-| Louvre | **Bagelstein** – 13 rue des Pyramides | bagel |
 
 ## Pomeriggio
 
@@ -199,8 +176,6 @@ Il Petit Palais è spesso una tappa sottovalutata ma molto piacevole: edificio b
 - **Durata consigliata:** **2h30–3h**
 - Fine visita stimata: **19:30–20:00**
 
-Il Louvre è gigantesco: impossibile vedere tutto bene in una sola visita. Conviene entrare già con un'idea chiara delle opere o sezioni prioritarie. Se non volete distruggervi, meglio selezionare un percorso essenziale.
-
 ## Sera
 
 ### 9) Cena in zona Châtelet / Les Halles
@@ -211,17 +186,6 @@ Il Louvre è gigantesco: impossibile vedere tutto bene in una sola visita. Convi
 - **Fontaine des Innocents**
 - **Fontana di Stravinsky** – Place Stravinsky, 75004 (coloratissima, accanto al Pompidou)
 - **Colonia** – speakeasy con password — 18 Rue de Beaujolais, 75001, dietro profumeria, verificare disponibilità
-
-| Zona | Posto | Note |
-| --- | --- | --- |
-| Zona 1/2 | **Kodawari Ramen** | ramen |
-| Les Halles 1 | **Stohrer** | dessert |
-| Choiseul | **Comme un Bouillon** – 17 rue Choiseul | bistrot/bouillon |
-| Opéra 2 | **Monte Carlo** – 9 rue de la Michodière | economico |
-| Les Halles 1 | **Le Petit Bouillon Pharamond** – 24 Rue de la Grande Truanderie | bouillon storico |
-| Les Halles 1 | **Pink Koi** – 8 Rue Coquillière | sushi ayce |
-| 8e arr. | **Ferdi** – 32 Rue du Mont Thabor | hamburger e mac&cheese [R] |
-| 2e | **Brasserie Tekés** – 4 bis Rue Saint-Sauveur | Michelin, più costoso [R] |
 
 ## Riassunto orari
 
@@ -256,10 +220,8 @@ Il Louvre è gigantesco: impossibile vedere tutto bene in una sola visita. Convi
 - Fascia oraria indicativa: **10:00–10:45**
 - **Ingresso gratuito**
 
-È uno dei punti panoramici più belli della città. La basilica è molto visitata, quindi al mattino si gira meglio. Anche solo il sagrato merita molto per vista e atmosfera.
+È uno dei punti panoramici più belli della città. La basilica è molto visitata, quindi al mattino si gira meglio.
 
-- **Cupola**: circa **6 €**
-- **Cripta**: circa **3 €**
 
 ### 3) Place du Tertre
 - **Durata consigliata:** **30–45 minuti**
@@ -278,20 +240,11 @@ Da non perdere:
 - **Muro "I Love You"**
 - **Casa che affonda** — curiosità fotografica
 
-Montmartre rende meglio se la vivi camminando senza fretta, entrando nelle stradine laterali e non limitandoti solo ai punti più famosi.
 
 ## Pranzo
 
 ### 5) Pranzo a Montmartre
 - Orario previsto: **13:00–14:00**
-
-| Zona | Posto | Note |
-| --- | --- | --- |
-| Montmartre 18 | **La Maison Rose** – 2 Rue de l'Abreuvoir | pranzo, prenotare |
-| Montmartre 18 | **Le Refuge des Fondus** – 17 Rue des Trois Frères | fonduta nel biberon [R] |
-| Montmartre 18 | **Aux Merveilleux de Fred** – 2 rue Lepic | dolci |
-| Montmartre 18 | **Le Cantine de Sam** – 6 rue Androuet | café |
-| Montmartre 18/9 | **Chez Mamane** | cucina nordafricana |
 
 ## Pomeriggio
 
@@ -300,7 +253,6 @@ Montmartre rende meglio se la vivi camminando senza fretta, entrando nelle strad
 - Arrivo previsto: **14:30 circa**
 - **Durata consigliata:** **20–30 minuti**
 
-Quartiere più vivace e meno "cartolina", interessante per contrasto con l'atmosfera del Montmartre alto.
 
 ### 7) Moulin Rouge
 - **Durata consigliata:** **10–15 minuti**
@@ -311,8 +263,6 @@ Quartiere più vivace e meno "cartolina", interessante per contrasto con l'atmos
 - Arrivo previsto: **15:30–16:00**
 - **Durata consigliata:** **45–60 minuti**
 - Fascia indicativa: **16:00–17:00**
-
-Le Galeries valgono la visita anche senza shopping, soprattutto per gli interni e l'atmosfera del grande magazzino storico.
 
 - **Terrazza panoramica all'8° piano** — **gratuita**
 - **Glasswalk** — prenotare fascia oraria **[R]**
@@ -340,17 +290,6 @@ Il museo è molto più gestibile del Louvre e spesso più godibile a fine giorna
 ### 11) Cena in zona Opéra / Haussmann
 - Orario consigliato: **18:30–19:30**
 - Rientro in hotel con **metro M12**, circa **30 minuti**
-
-| Zona | Posto | Note |
-| --- | --- | --- |
-| Pigalle 9 | **Bouillon Pigalle** [R] | tipico francese, lumache |
-| Opéra 9 | **Bouillon Chartier** – 7 Rue du Fg Montmartre | economico, no prenotazione |
-| Opéra 9 | **Cult Coffee Shop** – 13 Rue La Fayette | brunch e caffè |
-| Opéra 9 | **Père & Fish** – 67 Rue du Fg Poissonnière | burger di pesce |
-| Opéra 9 | **Keopi** – 23 Passage Verdeau | brunch, cozy |
-| Opéra 9 | **Kozy Kanopé** – 46 Rue La Fayette | brunch all-day |
-| Opéra 9 | **Mamiche** – 45 Rue Condorcet | bakery |
-| Oberkampf 11 | **Pierre Sang** [R] | chef creativo, 25–35 € |
 
 ## Riassunto orari
 
@@ -420,82 +359,72 @@ Le Marais è uno dei quartieri più piacevoli per camminare: strade storiche, ne
 - **Le Défenseur du Temps**
 - **Fontana di Stravinsky** – se vi spingete verso Pompidou
 
-| Zona | Posto | Note |
-| --- | --- | --- |
-| Bastiglia 12 | **Marché d'Aligre** – Rue d'Aligre | mercato alimentare |
-| Marais 3 | **Chez Alain Miam Miam** – 26 Rue Charlot | panini giganti |
-| Marais 3/4 | **Marché des Enfants Rouges** – 39 Rue de Bretagne | pranzo |
-| Marais 4 | **L'As du Fallafel** – 34 Rue des Rosiers | falafel |
-| Marais 4 | **Carette** – 25 Place des Vosges | pasticceria |
-| Marais 4 | **Neulo** – 46 Rue Sainte-Croix de la Bretonnerie | flan |
-| Marais 4 | **Chez Janou** | bistrot vicino Place des Vosges |
-| Marais 4 | **Kozy Pompidou** – 131/133 Rue Saint-Martin | brunch all-day |
-
 ## Pomeriggio
 
-### 6) Centro Pompidou + Hôtel de Ville
-- **Pompidou:** solo passaggio esterno — **chiuso fino al 2030**, durata **10–15 minuti**
-- **Hôtel de Ville:** visita da fuori, **10–15 minuti**
+### 6) Conciergerie + Sainte-Chapelle
+- Tempo di spostamento da Le Marais: **15–20 minuti**
+- Arrivo previsto: **14:15–14:30**
+- **Durata consigliata complessiva:** **1h30–2h**
+
+**Conciergerie:**
+- **Biglietti:** acquistabili in loco o online
+- **Durata:** circa **45 minuti**
+- Fascia indicativa: **14:30–15:15**
+
+**Sainte-Chapelle:**
+- **Biglietti:** acquistabili in loco o online (spesso combinato con Conciergerie)
+- **Durata:** circa **45 minuti**
+- Fascia indicativa: **15:15–16:00**
+
+Due capolavori del Medioevo francese che meritano una visita accurata. Sainte-Chapelle è famosa per le vetrate colorate spettacolari.
 
 ### 7) Notre-Dame
-- Arrivo previsto: **15:00 circa**
-- **Ingresso gratuito**
-- Possibile visita della cripta
-- **Durata consigliata:** **45–60 minuti**
+- **Ingresso gratuito** 
+- **Torri prenotate: 17:15**
+- Arrivo consigliato: **17:00–17:15**
+- **Durata consigliata:** **1h15** (incluse torri)
+- Fascia indicativa: **17:15–18:30**
 
-Notre-Dame è una tappa fondamentale, anche solo da fuori. Considerate un po' di margine per controlli o coda.
+Notre-Dame è una tappa fondamentale. Con la prenotazione delle torri potrete salire e godere della vista panoramica. Considerate controlli di sicurezza.
 
 #### Extra vicini a Notre-Dame / Île de la Cité / Quartiere Latino
 - **Rue du Chat-qui-Pêche** – la via più stretta di Parigi
-- **Sainte-Chapelle** – se volete aggiungere una tappa a pagamento
 - **Tour de l'Horloge**
 - **Le Renard Café** – Studio Ghibli café
 - **La Taverne d'Esmeralda** – boeuf bourguignon
 
-### 8) Catacombe di Parigi
-- Spostamento (eventuale passaggio in zona **Pantheon**): **25–35 minuti**
-- Arrivo realistico: **16:15–16:30**
-- Slot ideale: **16:30 o 17:00**
+### 8) Giardino del Lussemburgo
+- Tempo di spostamento da Notre-Dame: **10–15 minuti** a piedi
+- Arrivo previsto: **18:45 circa**
+- **Durata consigliata:** **20–30 minuti**
+- **Attenzione:** chiude al tramonto - 20:45
+
+#### Extra segnati in zona
+- **Le 5 Statue della Libertà** – una si trova nel Giardino del Lussemburgo
+- Zona Saint-Germain sempre piacevole se volete allungare un po'
+
+### 9) Catacombe di Parigi
+- **Ingresso prenotato: 19:15**
+- Arrivo consigliato: **19:00–19:15**
+- **Durata della visita:** **1 ora**
+- Fine visita stimata: **20:15 circa**
 
 Accesso: 1 avenue du Colonel Henri Rol-Tanguy, 75014 Paris — https://maps.app.goo.gl/VXxSarKfFnniHknLA
 
-- **Durata media visita:** circa **1 ora**
 - **Percorso:** **1,5 km**
 - **Temperatura costante:** **14°C**
 - **Scale:** 131 gradini in discesa, 112 in salita
-- **Prenotazione online obbligatoria per tutti** — prenotazioni aperte **7 giorni prima**
-- Aperte **martedì–domenica, 9:45–20:30** (ultimo ingresso 19:30); **chiuse il lunedì**
-- Numero visitatori limitato a **200 contemporaneamente**
+- **Prenotazione online:** già confermata per le 19:15
+- **Numero visitatori limitato a 200 contemporaneamente**
 - Site sconsigliato a persone claustrofobiche, con mobilità ridotta o problemi cardiaci/respiratori
 - Valigie e bagagli grandi vietati; ammessi solo zaini/borse fino a **40 × 30 cm**
 - Conviene avere uno strato leggero: la temperatura è fresca anche in primavera
 
-## Tardo pomeriggio
-
-### 9) Giardino del Lussemburgo
-- Dopo le Catacombe
-- **Durata consigliata:** **30–45 minuti**
-- Orario stimato: **17:45–18:30 circa**
-- **Attenzione:** chiude al tramonto
-
-Tappa perfetta per riprendersi dopo le Catacombe: più luce, più aria, atmosfera calma.
-
-#### Extra segnati in zona
-- **Le 5 Statue della Libertà** – una si trova nel Giardino del Lussemburgo
-- **Benchy** – per matcha / pausa
-- Zona Saint-Germain sempre piacevole se volete allungare un po'
-
 ## Sera
 
 ### 10) Cena
-- Orario previsto: **20:30–21:30**
+- Orario previsto: **21:00–22:00**
 - Cena libera, "alla bersagliera"
-
-#### Idee serali
-- **Le Caveau de la Huchette** – jazz live zona Saint-Michel
-- **Les Marmottes** – fonduta / raclette
-- **Chez Gladines** – cucina basca abbondante ed economica
-- **Les Rupins** – bistrot economico e autentico
 
 #### Speakeasy segnati
 - **Lavomatic** – 30 Rue René Boulanger, 10e
@@ -512,12 +441,12 @@ Tappa perfetta per riprendersi dopo le Catacombe: più luce, più aria, atmosfer
 | **11:00** | Museo Victor Hugo |
 | **12:00** | Le Marais |
 | **13:00** | Pranzo al Marché des Enfants Rouges |
-| **14:15** | Pompidou |
-| **14:30** | Hôtel de Ville |
-| **15:00** | Notre-Dame |
-| **16:30–17:00** | Catacombe |
-| **17:45–18:00** | Giardino del Lussemburgo |
-| **20:30–21:00** | Cena |
+| **14:30** | Conciergerie + Sainte-Chapelle |
+| **17:15** | Notre-Dame - torri (prenotate) |
+| **18:45** | Giardini di Lussemburgo |
+| **19:15** | Catacombe (ingresso prenotato, durata 1h) |
+| **20:15** | Fine catacombe |
+| **21:00** | Cena |
 
 ---
 
