@@ -458,6 +458,7 @@ Accesso: 1 avenue du Colonel Henri Rol-Tanguy, 75014 Paris — https://maps.app.
 ## Volo e trasferimento
 
 ### Volo BVA → BLQ
+- Chiusura gates Beauvais **12:00**
 - Partenza Beauvais: **12:30**
 - Arrivo Bologna: **14:10**
 
