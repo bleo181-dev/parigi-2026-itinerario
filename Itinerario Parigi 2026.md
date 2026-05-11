@@ -10,6 +10,7 @@
 ## Volo e trasferimento
 
 ### Volo BLQ → BVA
+- Chiusura gates Bologna **10:30**
 - Partenza Bologna: **11:00**
 - Arrivo Beauvais: **12:55**
 
@@ -475,11 +476,12 @@ Percorso di riferimento: https://www.rome2rio.com/map/Paris-Rooms-Dreams-Hotel/B
 
 | Orario | Tappa | Note |
 | --- | --- | --- |
-| **8:40** | Partenza dall'hotel | |
-| **9:00** | Paris Nord – TER verso Beauvais | |
-| **10:20** | Beauvais – 7 min a piedi | |
-| **10:40** | Bus linea 6 verso aeroporto | |
-| **11:00** | Arrivo a Beauvais Airport BVA | |
+| **7:41** | Partenza dall'hotel | |
+| **8:01** | Paris Nord – TER verso Beauvais | |
+| **9:18** | Beauvais – 7 min a piedi | |
+| **9:41** | Bus linea 6 verso aeroporto | |
+| **10:05** | Arrivo a Beauvais Airport BVA | |
+| **12:00** | Chiusura gates BVA | |
 | **12:30** | Partenza BVA | |
 | **14:10** | Arrivo Bologna | |
 
